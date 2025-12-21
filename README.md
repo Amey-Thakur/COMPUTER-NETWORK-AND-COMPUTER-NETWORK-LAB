@@ -74,7 +74,7 @@
 
 ## Semester Exam
  
- - CN Answersheet - [Q2](https://github.com/Amey-Thakur/COMPUTER-NETWORK-AND-COMPUTER-NETWORK-LAB/blob/main/Semester%20Exam/Q.2_CN.pdf) | [Q3](https://github.com/Amey-Thakur/COMPUTER-NETWORK-AND-COMPUTER-NETWORK-LAB/blob/main/Semester%20Exam/Q.3_CN.pdf)
+ - CN Answer Sheet - [Q2](https://github.com/Amey-Thakur/COMPUTER-NETWORK-AND-COMPUTER-NETWORK-LAB/blob/main/Semester%20Exam/Q.2_CN.pdf) | [Q3](https://github.com/Amey-Thakur/COMPUTER-NETWORK-AND-COMPUTER-NETWORK-LAB/blob/main/Semester%20Exam/Q.3_CN.pdf)
 
 
 ## Question Papers
@@ -97,5 +97,5 @@
 
 <p align="center"> <b> 👉🏻 Subject as a part of the 5th Semester of Engineering @ University of Mumbai 👈🏻 <b> </p>
  
-<p align="center"><a href='https://github.com/Amey-Thakur/COMPUTER-ENGINEERING', style='color: greenyellow;'> ✌🏻 Back To Engineering ✌🏻</p>
+<p align="center"><a href='https://github.com/Amey-Thakur/COMPUTER-ENGINEERING' style='color: greenyellow;'> ✌🏻 Back To Engineering ✌🏻</a></p>
  
