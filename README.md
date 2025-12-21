@@ -84,9 +84,9 @@
 
 ## Exit Survey
  
- - CN [Course Exit Survey](https://github.com/Amey-Thakur/COMPUTER-NETWORK-AND-COMPUTER-NETWORK-LAB/blob/main/Submission%20Report/CN%20Exit%20Theory%20Survey%20AMEY%20B-50.pdf)
+ - CN [Course Exit Survey](https://github.com/Amey-Thakur/COMPUTER-NETWORK-AND-COMPUTER-NETWORK-LAB/blob/main/Submission%20Report/Amey_B-50_CN_Theory_Exit_Survey.pdf)
  
- - CN Lab [Course Exit Survey](https://github.com/Amey-Thakur/COMPUTER-NETWORK-AND-COMPUTER-NETWORK-LAB/blob/main/Submission%20Report/CN%20Lab%20Exit%20Survey%20AMEY%20B-50.pdf)
+ - CN Lab [Course Exit Survey](https://github.com/Amey-Thakur/COMPUTER-NETWORK-AND-COMPUTER-NETWORK-LAB/blob/main/Submission%20Report/Amey_B-50_CN_Lab_Exit_Survey.pdf)
 
 
 ## Submission Report 
