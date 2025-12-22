@@ -334,13 +334,13 @@ Previous year university question papers:
      ========================================================================================= -->
 ## Submission Completion Report
 
-Course completion documentation and exit surveys:
+Course completion documentation with exit survey:
 
 | Document | Description | Link |
 |:---|:---|:-:|
-| 📊 **Submission Report** | Complete course submission documentation | [View](Submission%20Report/Amey_B-50_CN_Submission_Report.pdf) |
-| 📋 **Theory Exit Survey** | CN Course Exit Survey | [View](Submission%20Report/Amey_B-50_CN_Theory_Exit_Survey.pdf) |
-| 📋 **Lab Exit Survey** | CN Lab Course Exit Survey | [View](Submission%20Report/Amey_B-50_CN_Lab_Exit_Survey.pdf) |
+| Submission Report | Final coursework submission report | [📄 View](Submission%20Report/Amey_B-50_CN_Submission_Report.pdf) |
+| Exit Survey (Theory) | Course outcome survey for CN Theory | [📄 View](Submission%20Report/Amey_B-50_CN_Theory_Exit_Survey.pdf) |
+| Exit Survey (Lab) | Course outcome survey for CN Lab | [📄 View](Submission%20Report/Amey_B-50_CN_Lab_Exit_Survey.pdf) |
 
 ---
 
