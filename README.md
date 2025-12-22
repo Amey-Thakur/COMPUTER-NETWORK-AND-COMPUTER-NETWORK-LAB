@@ -129,16 +129,16 @@ The laboratory component (CSL502) focuses on hands-on implementation of network 
 
 | # | Experiment Name | Description | Date | Marks | Resource |
 |:-:|:---|:---|:---:|:---:|:-:|
-| 1 | **Network Topologies** | LAN Configuration | - | - | [📄](Experiments/Amey_B-50_CN_Experiment-1.pdf) |
-| 2 | **Star Topology** | Star Network Implementation | - | - | [📄](Experiments/Amey_B-50_CN_Experiment-2.pdf) |
-| 3 | **Ring Topology** | Ring Network Configuration | - | - | [📄](Experiments/Amey_B-50_CN_Experiment-3.pdf) |
-| 4 | **Tree Topology** | Hierarchical Network Design | - | - | [📄](Experiments/Amey_B-50_CN_Experiment-4.pdf) |
-| 5 | **FTP Configuration** | File Transfer Protocol Setup | - | - | [📄](Experiments/Amey_B-50_CN_Experiment-5.pdf) |
-| 6 | **OSPF Routing** | Open Shortest Path First Protocol | - | - | [📄](Experiments/Amey_B-50_CN_Experiment-6.pdf) |
-| 7 | **Socket Programming** | TCP Client-Server Communication | - | - | [📄](Experiments/Amey_B-50_CN_Experiment-7.pdf) |
-| 8 | **Error Detection** | CRC Implementation | - | - | [📄](Experiments/Amey_B-50_CN_Experiment-8.pdf) |
-| 9 | **Hybrid Topology** | Combined Network Design | - | - | [📄](Experiments/Amey_B-50_CN_Experiment-9.pdf) |
-| 10 | **Network Simulation** | Complete Network Setup | - | - | [📄](Experiments/Amey_B-50_CN_Experiment-10.pdf) |
+| 1 | **Network Topologies** | LAN Configuration | - | 14/15 | [📄](Experiments/Amey_B-50_CN_Experiment-1.pdf) |
+| 2 | **Star Topology** | Star Network Implementation | - | 15/15 | [📄](Experiments/Amey_B-50_CN_Experiment-2.pdf) |
+| 3 | **Ring Topology** | Ring Network Configuration | - | 15/15 | [📄](Experiments/Amey_B-50_CN_Experiment-3.pdf) |
+| 4 | **Tree Topology** | Hierarchical Network Design | - | 15/15 | [📄](Experiments/Amey_B-50_CN_Experiment-4.pdf) |
+| 5 | **FTP Configuration** | File Transfer Protocol Setup | - | 15/15 | [📄](Experiments/Amey_B-50_CN_Experiment-5.pdf) |
+| 6 | **OSPF Routing** | Open Shortest Path First Protocol | - | 15/15 | [📄](Experiments/Amey_B-50_CN_Experiment-6.pdf) |
+| 7 | **Socket Programming** | TCP Client-Server Communication | - | 14/15 | [📄](Experiments/Amey_B-50_CN_Experiment-7.pdf) |
+| 8 | **Error Detection** | CRC Implementation | - | 14/15 | [📄](Experiments/Amey_B-50_CN_Experiment-8.pdf) |
+| 9 | **Hybrid Topology** | Combined Network Design | - | 14/15 | [📄](Experiments/Amey_B-50_CN_Experiment-9.pdf) |
+| 10 | **Network Simulation** | Complete Network Setup | - | 14/15 | [📄](Experiments/Amey_B-50_CN_Experiment-10.pdf) |
 
 ### Laboratory Resources
 
