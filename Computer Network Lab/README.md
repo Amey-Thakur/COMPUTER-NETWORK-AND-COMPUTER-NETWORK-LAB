@@ -22,10 +22,10 @@
 ---
 
 > [!TIP]
-> **Tip**: For comprehensive theory notes and exam resources, check out the [Reference Books](../README.md#reference-books) in the main repository. These materials provide the theoretical foundation necessary for mastering these practical experiments.
+> **Network Testing**: Use the `ping` command within Cisco Packet Tracer's CLI to verify connectivity between devices. For socket programming, always start the server before the client, and ensure both are running on the same port (default: 9999).
 
 > [!WARNING]
-> **Cisco Packet Tracer Required**: The `.pkt` files require Cisco Packet Tracer software to open and simulate. Download it from [Cisco Networking Academy](https://www.netacad.com/courses/packet-tracer).
+> **Cisco Packet Tracer Required**: The `.pkt` files require [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer) software to open. For Python socket programs, ensure no firewall is blocking localhost connections on port 9999.
 
 ---
 
