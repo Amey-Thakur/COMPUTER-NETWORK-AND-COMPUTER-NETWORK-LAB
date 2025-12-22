@@ -285,6 +285,9 @@ CN-specific quizzes conducted during the course:
      ========================================================================================= -->
 ## Online Exam
 
+> [!IMPORTANT]
+> **COVID-19 Impact**: This coursework was completed during the COVID-19 pandemic. All examinations and assessments were conducted in a digital format.
+
 Online assessments conducted during the semester:
 
 | # | Exam | Subjects | Date | Resource |
