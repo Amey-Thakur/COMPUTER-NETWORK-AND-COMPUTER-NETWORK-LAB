@@ -319,13 +319,13 @@ Final semester examination submission:
      ========================================================================================= -->
 ## Question Papers
 
-Previous year question papers for exam preparation:
+Previous year university question papers:
 
-| Year | Month | Resource |
-|:---:|:---:|:-:|
-| 2018 | December | [📄 View](Question%20Papers/TE-Comps_SEM5_CN-CBCGS_DEC18.pdf) |
-| 2019 | May | [📄 View](Question%20Papers/TE-Comps_SEM5_CN-CBCGS_MAY19.pdf) |
-| 2019 | December | [📄 View](Question%20Papers/TE-Comps_SEM5_CN-CBCGS_DEC19.pdf) |
+| Exam Session | Syllabus | Resource |
+|:---|:---:|:-:|
+| December 2018 | CBCGS | [📄](Question%20Papers/TE-Comps_SEM5_CN-CBCGS_DEC18.pdf) |
+| May 2019 | CBCGS | [📄](Question%20Papers/TE-Comps_SEM5_CN-CBCGS_MAY19.pdf) |
+| December 2019 | CBCGS | [📄](Question%20Papers/TE-Comps_SEM5_CN-CBCGS_DEC19.pdf) |
 
 ---
 
