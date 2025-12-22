@@ -290,12 +290,13 @@ CN-specific quizzes conducted during the course:
 
 Online assessments conducted during the semester:
 
-| # | Exam | Subjects | Date | Resource |
-|:-:|:---|:---|:---:|:-:|
-| 1 | **Online Test 1** | All Subjects (Semester V) | - | [📄](Online%20Exam/TE_B_Online_Test(All%20Subject)-1.pdf) |
-| 2 | **Online Test 2** | All Subjects (Semester V) | - | [📄](Online%20Exam/TE_B_Online_Test(All%20Subject)-2.pdf) |
-| 3 | **Online Test 3** | All Subjects (Semester V) | - | [📄](Online%20Exam/TE_B_Online_Test(All%20Subject)-3.pdf) |
-| 4 | **Online Test 4** | All Subjects (Semester V) | - | [📄](Online%20Exam/TE_B_Online_Test(All%20Subject)-4.pdf) |
+| Resource | Date | Marks | Description |
+|:---|:---:|:---:|:---|
+| 📊 [CN UT-2](Online%20Exam/CN%20UT-2.png) | 2020 | — | Unit Test 2 Assessment |
+| 📄 [All Subjects Test 1](Online%20Exam/TE_B_Online_Test(All%20Subject)-1.pdf) | July 18, 2020 | 40/40 | Collective subject test 1 |
+| 📄 [All Subjects Test 2](Online%20Exam/TE_B_Online_Test(All%20Subject)-2.pdf) | July 25, 2020 | 50/50 | Collective subject test 2 |
+| 📄 [All Subjects Test 3](Online%20Exam/TE_B_Online_Test(All%20Subject)-3.pdf) | August 03, 2020 | 50/50 | Collective subject test 3 |
+| 📄 [All Subjects Test 4](Online%20Exam/TE_B_Online_Test(All%20Subject)-4.pdf) | August 08, 2020 | 50/50 | Collective subject test 4 |
 
 ---
 
