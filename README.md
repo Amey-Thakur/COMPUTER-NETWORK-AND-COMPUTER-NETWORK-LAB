@@ -305,12 +305,12 @@ Online assessments conducted during the semester:
      ========================================================================================= -->
 ## Semester Exam
 
-Final semester examination answer sheets:
+Final semester examination submission:
 
-| Resource | Description | Link |
-|:---|:---|:-:|
-| 📝 **Question 2** | CN Semester Exam Answer Sheet | [View](Semester%20Exam/Q.2_CN.pdf) |
-| 📝 **Question 3** | CN Semester Exam Answer Sheet | [View](Semester%20Exam/Q.3_CN.pdf) |
+| Resource | Description | Date |
+|:---|:---|:---:|
+| 📝 [Question 2](Semester%20Exam/Q.2_CN.pdf) | CN Semester Exam Answer Sheet | January 12, 2021 |
+| 📝 [Question 3](Semester%20Exam/Q.3_CN.pdf) | CN Semester Exam Answer Sheet | January 12, 2021 |
 
 ---
 
