@@ -140,6 +140,99 @@ The laboratory component (CSL502) focuses on hands-on implementation of network 
 | 9 | **Hybrid Topology** | Combined Network Design | October 16, 2020 | 14/15 | [📄](Experiments/Amey_B-50_CN_Experiment-9.pdf) |
 | 10 | **Network Simulation** | Complete Network Setup | October 28, 2020 | 14/15 | [📄](Experiments/Amey_B-50_CN_Experiment-10.pdf) |
 
+### Program Details
+
+<details>
+<summary><b>📂 Experiment 1: Network Topologies (1 Program)</b></summary>
+
+| Program | Category | Description | Code |
+|:---|:---|:---|:-:|
+| `CN_LAN.pkt` | Network Design | LAN Configuration using Cisco Packet Tracer | [View](CISCO/CN_LAN.pkt) |
+
+</details>
+
+<details>
+<summary><b>⭐ Experiment 2: Star Topology (1 Program)</b></summary>
+
+| Program | Category | Description | Code |
+|:---|:---|:---|:-:|
+| `CN_STAR.pkt` | Network Design | Star Network Implementation | [View](CISCO/CN_STAR.pkt) |
+
+</details>
+
+<details>
+<summary><b>🔄 Experiment 3: Ring Topology (1 Program)</b></summary>
+
+| Program | Category | Description | Code |
+|:---|:---|:---|:-:|
+| `CN_RING.pkt` | Network Design | Ring Network Configuration | [View](CISCO/CN_RING.pkt) |
+
+</details>
+
+<details>
+<summary><b>🌳 Experiment 4: Tree Topology (1 Program)</b></summary>
+
+| Program | Category | Description | Code |
+|:---|:---|:---|:-:|
+| `CN_TREE.pkt` | Network Design | Hierarchical Tree Network Design | [View](CISCO/CN_TREE.pkt) |
+
+</details>
+
+<details>
+<summary><b>📁 Experiment 5: FTP Configuration (1 Program)</b></summary>
+
+| Program | Category | Description | Code |
+|:---|:---|:---|:-:|
+| `CN_FTP.pkt` | Application Layer | File Transfer Protocol Server Setup | [View](CISCO/CN_FTP.pkt) |
+
+</details>
+
+<details>
+<summary><b>🔀 Experiment 6: OSPF Routing (1 Program)</b></summary>
+
+| Program | Category | Description | Code |
+|:---|:---|:---|:-:|
+| `CN_OSPF.pkt` | Routing Protocol | Open Shortest Path First Implementation | [View](CISCO/CN_OSPF.pkt) |
+
+</details>
+
+<details>
+<summary><b>💻 Experiment 7: Socket Programming (2 Programs)</b></summary>
+
+| Program | Category | Description | Code |
+|:---|:---|:---|:-:|
+| `TCP_Server.py` | Socket Programming | TCP Server Implementation | [View](CISCO/Socket%20Programming/TCP_Server.py) |
+| `TCP_Client.py` | Socket Programming | TCP Client Implementation | [View](CISCO/Socket%20Programming/TCP_Client.py) |
+
+</details>
+
+<details>
+<summary><b>🔍 Experiment 8: Error Detection (1 Program)</b></summary>
+
+| Program | Category | Description | Code |
+|:---|:---|:---|:-:|
+| `CRC_Error_Detection.py` | Error Detection | Cyclic Redundancy Check Algorithm | [View](CISCO/CRC_Error_Detection.py) |
+
+</details>
+
+<details>
+<summary><b>🔗 Experiment 9: Hybrid Topology (1 Program)</b></summary>
+
+| Program | Category | Description | Code |
+|:---|:---|:---|:-:|
+| `AMEY_B-50_CN_EXAM_HYBRID_TOPOLOGY.pkt` | Network Design | Hybrid Topology (Bus + Star) | [View](CISCO/AMEY_B-50_CN_EXAM_HYBRID_TOPOLOGY.pkt) |
+
+</details>
+
+<details>
+<summary><b>🌐 Experiment 10: Network Simulation (Multiple Programs)</b></summary>
+
+| Program | Category | Description | Code |
+|:---|:---|:---|:-:|
+| Various `.pkt` files | Network Simulation | Complete network setup combining all concepts | [View CISCO Folder](CISCO/) |
+
+</details>
+
 ### Laboratory Resources
 
 | Resource | Description |
