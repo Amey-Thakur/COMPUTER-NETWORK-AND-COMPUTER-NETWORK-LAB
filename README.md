@@ -174,7 +174,12 @@ CN-specific quizzes conducted during the course:
 
 | Quiz | Topics | Date | Marks | Resource |
 |:-:|:---|:---:|:---:|:-:|
-| UT-2 | Network Layer, Transport Layer | - | - | [📄](Online%20Exam/CN%20UT-2.png) |
+| 1 | **Quiz 1** | Network Fundamentals | - | 06/10 | - |
+| 2 | **Quiz 2** | Physical & Data Link Layer | - | 06/10 | [📄](Online%20Exam/CN%20UT-2.png) |
+| 3 | **Quiz 3** | Network Layer | - | 05/10 | - |
+| 4 | **Quiz 4** | Transport Layer | - | 05/10 | - |
+| 5 | **Quiz 5** | Application Layer | - | 09/10 | - |
+| 6 | **Quiz 6** | Network Security | - | 09/10 | - |
 
 ---
 
