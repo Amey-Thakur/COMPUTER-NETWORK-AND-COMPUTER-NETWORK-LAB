@@ -421,7 +421,7 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
 
   <br>
 
-  **[🌐 CISCO Lab](Computer%20Network%20Lab/CISCO/)** &nbsp;·&nbsp; **[💻 Socket Programming](Computer%20Network%20Lab/CISCO/Socket%20Programming/)**
+  **[🖥️ CN Lab](Computer%20Network%20Lab/)**
 
 </div>
 
