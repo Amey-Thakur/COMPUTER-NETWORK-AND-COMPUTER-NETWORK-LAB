@@ -172,14 +172,14 @@ Laboratory practical examination and submission:
 
 CN-specific quizzes conducted during the course:
 
-| Quiz | Topics | Date | Marks | Resource |
-|:---:|:---|:---:|:---:|:-:|
-| Quiz 1 | Network Fundamentals, OSI Model | - | 06/10 | - |
-| Quiz 2 | Physical & Data Link Layer | - | 06/10 | [📄](Online%20Exam/CN%20UT-2.png) |
-| Quiz 3 | Network Layer, Routing | - | 05/10 | - |
-| Quiz 4 | Transport Layer, TCP/UDP | - | 05/10 | - |
-| Quiz 5 | Application Layer Protocols | - | 09/10 | - |
-| Quiz 6 | Network Security | - | 09/10 | - |
+| Quiz | Topics | Date | Marks |
+|:---:|:---|:---:|:---:|
+| Quiz 1 | Network Fundamentals, OSI Model | - | 06/10 |
+| Quiz 2 | Physical & Data Link Layer | - | 06/10 |
+| Quiz 3 | Network Layer, Routing | - | 05/10 |
+| Quiz 4 | Transport Layer, TCP/UDP | - | 05/10 |
+| Quiz 5 | Application Layer Protocols | - | 09/10 |
+| Quiz 6 | Network Security | - | 09/10 |
 
 ---
 
