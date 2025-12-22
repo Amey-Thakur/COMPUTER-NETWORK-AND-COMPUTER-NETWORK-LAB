@@ -349,12 +349,11 @@ Course completion documentation with exit survey:
      ========================================================================================= -->
 ## Syllabus
 
-Official University of Mumbai curriculum and syllabus:
+> 📄 **[Official CBCGS Syllabus](Syllabus/TE%20BE%20Comp%20Engg%20CBCGS%20Syllabus.pdf)**
+> Complete Third Year Computer Engineering syllabus document from the University of Mumbai, including detailed course outcomes, assessment criteria, and module specifications for CN and CN Lab.
 
-| Resource | Description |
-|:---|:---|
-| 📘 [Complete Syllabus](Syllabus/TE%20BE%20Comp%20Engg%20CBCGS%20Syllabus.pdf) | Detailed module-wise syllabus |
-| 📊 [Full Curriculum](Syllabus/MU%20COMP%20TE%20BE.pdf) | University of Mumbai official curriculum |
+> [!IMPORTANT]
+> Always verify the latest syllabus details with the official University of Mumbai website, as curriculum updates may occur after this repository's archival date.
 
 ---
 
