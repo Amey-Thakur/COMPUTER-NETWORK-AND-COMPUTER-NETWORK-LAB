@@ -240,7 +240,7 @@ The laboratory component (CSL502) focuses on hands-on implementation of network 
 | 💻 [Socket Programming](Computer Network Lab/CISCO/Socket%20Programming/) | TCP Client-Server Python implementation |
 | 🔍 [CRC Error Detection](Computer Network Lab/CISCO/CRC_Error_Detection.py) | Cyclic Redundancy Check algorithm |
 | 🌐 [Cisco Packet Tracer Files](Computer Network Lab/CISCO/) | Network topology simulation files |
-| 📖 [Lab README](Computer Network Lab/CISCO/README.md) | Detailed navigation guide with program descriptions |
+| 📖 [Lab README](Computer%20Network%20Lab/README.md) | Detailed navigation guide with program descriptions |
 
 ---
 
