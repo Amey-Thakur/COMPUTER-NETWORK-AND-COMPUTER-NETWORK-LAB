@@ -233,7 +233,7 @@ The laboratory component (CSL502) focuses on hands-on implementation of network 
 
 </details>
 
-### Laboratory Resources
+### Laboratory Documentation
 
 | Resource | Description |
 |:---|:---|
