@@ -242,6 +242,9 @@ The laboratory component (CSL502) focuses on hands-on implementation of network 
 | 🌐 [Cisco Packet Tracer Files](Computer%20Network%20Lab/CISCO/) | Network topology simulation files |
 | 📖 [Lab README](Computer%20Network%20Lab/README.md) | Detailed navigation guide with program descriptions |
 
+> [!NOTE]
+> **COVID-19 Impact**: This coursework was completed during the COVID-19 pandemic (Semester V, 2020). All laboratory experiments were conducted remotely using Cisco Packet Tracer simulations and Python socket programming. Despite the challenges of online learning, all 10 experiments were successfully completed with practical implementations preserved in this repository.
+
 ---
 
 <!-- =========================================================================================
