@@ -1,101 +1,333 @@
-# COMPUTER-NETWORK-AND-COMPUTER-NETWORK-LAB
+<!-- =========================================================================================
+                                     HEADER SECTION
+     ========================================================================================= -->
+<div align="center">
 
- 👍🏻 CSC503: CN & CSL502: CN LAB [SEMESTER V] 
+  <img src="https://raw.githubusercontent.com/Amey-Thakur/COMPUTER-ENGINEERING/main/university-of-mumbai-logo.png" alt="University of Mumbai" width="200"/>
+
+  # Computer Network and Computer Network Lab
+
+  ### CSC503 & CSL502 · Semester V · Computer Engineering
+
+  [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
+  [![University](https://img.shields.io/badge/University-Mumbai-%23A6192E.svg)](https://mu.ac.in/)
+  [![Institution](https://img.shields.io/badge/Institution-Terna%20Engineering%20College-orange.svg)](https://ternaengg.ac.in/)
+  [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
+
+  **A comprehensive academic resource for Computer Network (CN) and CN Laboratory (CN Lab), covering network protocols, OSI model, TCP/IP, routing algorithms, socket programming, and practical implementations.**
+
+  ---
+
+  [📖 Overview](#overview) &nbsp;·&nbsp; [📂 Contents](#repository-contents) &nbsp;·&nbsp; [📚 Reference Books](#reference-books) &nbsp;·&nbsp; [📄 Assignments](#assignments) &nbsp;·&nbsp; [🧪 Laboratory](#computer-network-laboratory) &nbsp;·&nbsp; [🧠 Quizzes](#quizzes) &nbsp;·&nbsp; [💻 Online Exam](#online-exam) &nbsp;·&nbsp; [🎓 Semester Exam](#semester-exam) &nbsp;·&nbsp; [📝 Question Papers](#question-papers) &nbsp;·&nbsp; [✅ Submission Report](#submission-completion-report) &nbsp;·&nbsp; [📋 Syllabus](#syllabus) &nbsp;·&nbsp; [📘 Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [📜 License](#license) &nbsp;·&nbsp; [ℹ️ About](#about-this-repository) &nbsp;·&nbsp; [🙏🏻 Acknowledgments](#acknowledgments)
+
+</div>
 
 ---
- 
- - [X] **[Syllabus](https://github.com/Amey-Thakur/COMPUTER-NETWORK-AND-COMPUTER-NETWORK-LAB/blob/main/Syllabus/TE%20BE%20Comp%20Engg%20CBCGS%20Syllabus.pdf)**
- 
- - [X] **CN - [Reference Books](https://github.com/Amey-Thakur/COMPUTER-NETWORK-AND-COMPUTER-NETWORK-LAB/tree/main/Reference%20Books)**
+
+<!-- =========================================================================================
+                                     OVERVIEW SECTION
+     ========================================================================================= -->
+## Overview
+
+Computer Network (CSC503) and CN Lab (CSL502) are core subjects in the Third Year (Semester V) of the Computer Engineering curriculum at the University of Mumbai. These courses provide foundational knowledge of network architecture, communication protocols, data transmission, and network security.
+
+### Course Topics
+
+The curriculum encompasses several key domains in Computer Networks:
+
+- **Network Fundamentals**: OSI Model, TCP/IP Protocol Suite, Network Topologies
+- **Physical Layer**: Transmission Media, Encoding, Multiplexing, Switching Techniques
+- **Data Link Layer**: Error Detection/Correction, Flow Control, MAC Protocols
+- **Network Layer**: IP Addressing, Subnetting, Routing Algorithms (Distance Vector, Link State)
+- **Transport Layer**: TCP, UDP, Congestion Control, Flow Control
+- **Application Layer**: HTTP, FTP, DNS, SMTP, Socket Programming
+
+### Repository Purpose
+
+This repository represents a curated collection of study materials, reference books, lab experiments, and personal preparation notes compiled during my academic journey. The primary motivation for creating and maintaining this archive is simple yet profound: **to preserve knowledge for continuous learning and future reference**.
+
+As a computer engineer, understanding network protocols and communication systems is crucial for distributed systems, cloud computing, and internet technologies. This repository serves as my intellectual reference point: a resource I can return to for relearning concepts, reviewing methodologies, and strengthening understanding when needed.
+
+**Why this repository exists:**
+
+- **Knowledge Preservation**: To maintain organized access to comprehensive study materials beyond the classroom.
+- **Continuous Learning**: To support lifelong learning by enabling easy revisitation of fundamental networking concepts.
+- **Academic Documentation**: To authentically document my learning journey through CN and CN Lab.
+- **Community Contribution**: To share these resources with students and learners who may benefit from them.
+
+All materials in this repository were gathered, organized, and documented by me during my undergraduate studies (2018-2022) as part of my coursework and exam preparation.
 
 ---
 
-## Assignments
- 
- - CN [Assignment - 1](https://github.com/Amey-Thakur/COMPUTER-NETWORK-AND-COMPUTER-NETWORK-LAB/blob/main/Assignments/Amey_B-50_CN_Assignment-1.pdf)
- 
- - CN [Assignment - 2](https://github.com/Amey-Thakur/COMPUTER-NETWORK-AND-COMPUTER-NETWORK-LAB/blob/main/Assignments/Amey_B-50_CN_Assignment-2.pdf)
- 
- - CN [Assignment - 3](https://github.com/Amey-Thakur/COMPUTER-NETWORK-AND-COMPUTER-NETWORK-LAB/blob/main/Assignments/Amey_B-50_CN_Assignment-3.pdf)
- 
- - CN [Assignment - 4](https://github.com/Amey-Thakur/COMPUTER-NETWORK-AND-COMPUTER-NETWORK-LAB/blob/main/Assignments/Amey_B-50_CN_Assignment-4.pdf)
- 
- - CN [Assignment - 5](https://github.com/Amey-Thakur/COMPUTER-NETWORK-AND-COMPUTER-NETWORK-LAB/blob/main/Assignments/Amey_B-50_CN_Assignment-5.pdf)
- 
- - CN [Assignment - 6](https://github.com/Amey-Thakur/COMPUTER-NETWORK-AND-COMPUTER-NETWORK-LAB/blob/main/Assignments/Amey_B-50_CN_Assignment-6.pdf)
+<!-- =========================================================================================
+                                     CONTENTS SECTION
+     ========================================================================================= -->
+## Repository Contents
 
+### Reference Books
 
-## Experiments
- 
- >[CISCO](https://github.com/Amey-Thakur/COMPUTER-NETWORK-AND-COMPUTER-NETWORK-LAB/tree/main/CISCO) | Socket Programming - [SOURCE CODE](https://github.com/Amey-Thakur/COMPUTER-NETWORK-AND-COMPUTER-NETWORK-LAB/tree/main/CISCO/Socket%20Programming)
+This collection includes **comprehensive reference materials** covering all major topics:
 
- - CN [Experiment - 1](https://github.com/Amey-Thakur/COMPUTER-NETWORK-AND-COMPUTER-NETWORK-LAB/blob/main/Experiments/Amey_B-50_CN_Experiment-1.pdf)
- 
- - CN [Experiment - 2](https://github.com/Amey-Thakur/COMPUTER-NETWORK-AND-COMPUTER-NETWORK-LAB/blob/main/Experiments/Amey_B-50_CN_Experiment-2.pdf)
- 
- - CN [Experiment - 3](https://github.com/Amey-Thakur/COMPUTER-NETWORK-AND-COMPUTER-NETWORK-LAB/blob/main/Experiments/Amey_B-50_CN_Experiment-3.pdf)
- 
- - CN [Experiment - 4](https://github.com/Amey-Thakur/COMPUTER-NETWORK-AND-COMPUTER-NETWORK-LAB/blob/main/Experiments/Amey_B-50_CN_Experiment-4.pdf)
- 
- - CN [Experiment - 5](https://github.com/Amey-Thakur/COMPUTER-NETWORK-AND-COMPUTER-NETWORK-LAB/blob/main/Experiments/Amey_B-50_CN_Experiment-5.pdf)
- 
- - CN [Experiment - 6](https://github.com/Amey-Thakur/COMPUTER-NETWORK-AND-COMPUTER-NETWORK-LAB/blob/main/Experiments/Amey_B-50_CN_Experiment-6.pdf)
- 
- - CN [Experiment - 7](https://github.com/Amey-Thakur/COMPUTER-NETWORK-AND-COMPUTER-NETWORK-LAB/blob/main/Experiments/Amey_B-50_CN_Experiment-7.pdf)
- 
- - CN [Experiment - 8](https://github.com/Amey-Thakur/COMPUTER-NETWORK-AND-COMPUTER-NETWORK-LAB/blob/main/Experiments/Amey_B-50_CN_Experiment-8.pdf)
- 
- - CN [Experiment - 9](https://github.com/Amey-Thakur/COMPUTER-NETWORK-AND-COMPUTER-NETWORK-LAB/blob/main/Experiments/Amey_B-50_CN_Experiment-9.pdf)
- 
- - CN [Experiment - 10](https://github.com/Amey-Thakur/COMPUTER-NETWORK-AND-COMPUTER-NETWORK-LAB/blob/main/Experiments/Amey_B-50_CN_Experiment-10.pdf)
+| # | Resource | Focus Area |
+|:-:|:---|:---|
+| 1 | [CN Techmax](Reference%20Books/CN%20Techmax.pdf) | Complete syllabus coverage |
+| 2 | [Computer Networks by Andrew S. Tanenbaum](Reference%20Books/Computer%20Networks%20by%20Andrew%20S.%20Tanenbaum%205th%20edition.pdf) | Standard Textbook (Tanenbaum) |
+| 3 | [Data Communications and Networking](Reference%20Books/Data%20Communications%20and%20Networking%20By%20Behrouz%20A.Forouzan.pdf) | Standard Textbook (Forouzan) |
+| 4 | [Data Communication Computer Network](Reference%20Books/Data%20Communication%20Computer%20Network.pdf) | Reference Book |
+| 5 | [CN Easy Solutions](Reference%20Books/CN%20Easy%20Solutions.pdf) | Solved questions and exam-oriented summaries |
+| 6 | [CN Notes](Reference%20Books/CN%20Notes.pdf) | Comprehensive subject notes |
+| 7 | [Networking Fundamentals](Reference%20Books/Networking%20Fundamentals.pdf) | Basic networking concepts |
+| 8 | [Introduction to Networking](Reference%20Books/1%20Introduction%20to%20Networking%20(06).pdf) | Module 1 - Network Basics |
+| 9 | [Physical Layer](Reference%20Books/2-%20Physical%20Layer%20(06).pdf) | Module 2 - Physical Layer Concepts |
+| 10 | [Data Link Layer](Reference%20Books/3%20Data%20Link%20Layer%20(10).pptx.pdf) | Module 3 - Data Link Layer |
+| 11 | [Network Layer](Reference%20Books/4%20Network%20Layer%20(14)-new.pdf) | Module 4 - Network Layer & Routing |
+| 12 | [Network Layer Protocols](Reference%20Books/4.2%20Network%20layer.pdf) | IP, ICMP, ARP Protocols |
+| 13 | [Network Protocols](Reference%20Books/4.3%20NW%20protocols.pdf) | Additional Protocol Details |
+| 14 | [Congestion Control](Reference%20Books/4.4%20congestion%20Control.pdf) | Traffic Management Techniques |
+| 15 | [Transport Layer](Reference%20Books/5.1-%20Transport%20Layer%20(10).pdf) | Module 5 - TCP/UDP |
+| 16 | [CN Question Bank (PDF)](Reference%20Books/CN%20Question%20bank.pdf) | Practice questions for exam preparation |
+| 17 | [CN Question Bank (PNG)](Reference%20Books/CN%20Question%20Bank.png) | Quick reference question bank |
+| 18 | [Computer Network Diagram](Reference%20Books/Computer%20Network.png) | Key architectural diagrams |
+| 19 | [Semester 5 Books](Reference%20Books/Semester%205%20Books.png) | Curated book recommendations |
 
+---
 
+### Assignments
+
+Academic assignments for comprehensive learning and practice:
+
+| # | Assignment | Description | Date | Marks | Link |
+|:-:|:---|:---|:---:|:---:|:-:|
+| 1 | **Assignment 1** | OSI Model and Network Fundamentals | - | - | [📄 View](Assignments/Amey_B-50_CN_Assignment-1.pdf) |
+| 2 | **Assignment 2** | Physical and Data Link Layer | - | - | [📄 View](Assignments/Amey_B-50_CN_Assignment-2.pdf) |
+| 3 | **Assignment 3** | Network Layer and Routing | - | - | [📄 View](Assignments/Amey_B-50_CN_Assignment-3.pdf) |
+| 4 | **Assignment 4** | Transport Layer Protocols | - | - | [📄 View](Assignments/Amey_B-50_CN_Assignment-4.pdf) |
+| 5 | **Assignment 5** | Application Layer Services | - | - | [📄 View](Assignments/Amey_B-50_CN_Assignment-5.pdf) |
+| 6 | **Assignment 6** | Network Security and Management | - | - | [📄 View](Assignments/Amey_B-50_CN_Assignment-6.pdf) |
+
+**Topics Covered**: OSI Model · TCP/IP Protocol Suite · Error Detection/Correction · Routing Algorithms · TCP/UDP · Socket Programming · Network Security
+
+---
+
+<!-- =========================================================================================
+                                     LABORATORY SECTION
+     ========================================================================================= -->
+## Computer Network Laboratory
+
+The laboratory component (CSL502) focuses on hands-on implementation of network protocols, socket programming, and network simulation using Cisco Packet Tracer.
+
+<div align="center">
+
+  [![Total Experiments](https://img.shields.io/badge/Total%20Experiments-10-yellowgreen.svg)](CISCO/)
+  [![Language](https://img.shields.io/badge/Language-Python%20%7C%20Cisco-blueviolet.svg)](CISCO/)
+  [![Status](https://img.shields.io/badge/Status-Complete-brightgreen.svg)](CISCO/)
+
+</div>
+
+> [!TIP]
+> **Source Code**: For complete Python socket programming code and Cisco Packet Tracer files, visit the [**CISCO**](CISCO/) directory.
+
+| # | Experiment Name | Description | Date | Marks | Resource |
+|:-:|:---|:---|:---:|:---:|:-:|
+| 1 | **Network Topologies** | LAN Configuration | - | - | [📄](Experiments/Amey_B-50_CN_Experiment-1.pdf) |
+| 2 | **Star Topology** | Star Network Implementation | - | - | [📄](Experiments/Amey_B-50_CN_Experiment-2.pdf) |
+| 3 | **Ring Topology** | Ring Network Configuration | - | - | [📄](Experiments/Amey_B-50_CN_Experiment-3.pdf) |
+| 4 | **Tree Topology** | Hierarchical Network Design | - | - | [📄](Experiments/Amey_B-50_CN_Experiment-4.pdf) |
+| 5 | **FTP Configuration** | File Transfer Protocol Setup | - | - | [📄](Experiments/Amey_B-50_CN_Experiment-5.pdf) |
+| 6 | **OSPF Routing** | Open Shortest Path First Protocol | - | - | [📄](Experiments/Amey_B-50_CN_Experiment-6.pdf) |
+| 7 | **Socket Programming** | TCP Client-Server Communication | - | - | [📄](Experiments/Amey_B-50_CN_Experiment-7.pdf) |
+| 8 | **Error Detection** | CRC Implementation | - | - | [📄](Experiments/Amey_B-50_CN_Experiment-8.pdf) |
+| 9 | **Hybrid Topology** | Combined Network Design | - | - | [📄](Experiments/Amey_B-50_CN_Experiment-9.pdf) |
+| 10 | **Network Simulation** | Complete Network Setup | - | - | [📄](Experiments/Amey_B-50_CN_Experiment-10.pdf) |
+
+### Laboratory Resources
+
+| Resource | Description |
+|:---|:---|
+| 💻 [Socket Programming](CISCO/Socket%20Programming/) | TCP Client-Server Python implementation |
+| 🔍 [CRC Error Detection](CISCO/CRC_Error_Detection.py) | Cyclic Redundancy Check algorithm |
+| 🌐 [Cisco Packet Tracer Files](CISCO/) | Network topology simulation files |
+
+---
+
+<!-- =========================================================================================
+                                     PRACTICAL EXAM SECTION
+     ========================================================================================= -->
 ## Practical Exam
- 
- - [File](https://github.com/Amey-Thakur/COMPUTER-NETWORK-AND-COMPUTER-NETWORK-LAB/blob/main/Practical%20Exam/Amey_B-50_CN_Practical_Exam.pdf)
- 
- - [Source Code](https://github.com/Amey-Thakur/COMPUTER-NETWORK-AND-COMPUTER-NETWORK-LAB/blob/main/Practical%20Exam/AMEY_B-50_CN_EXAM_HYBRID_TOPOLOGY.pkt)
- 
- - [Submission](https://github.com/Amey-Thakur/COMPUTER-NETWORK-AND-COMPUTER-NETWORK-LAB/blob/main/Practical%20Exam/TE_B_CN_Pr-Exam_10.30am-12.30pm_12_12_2020.pdf)
 
+Laboratory practical examination and submission:
 
-## Online Exam
- 
- - CN [UT - 2](https://github.com/Amey-Thakur/COMPUTER-NETWORK-AND-COMPUTER-NETWORK-LAB/blob/main/Online%20Exam/CN%20UT-2.png)
-
- - Online Test [All Subjects - 1](https://github.com/Amey-Thakur/COMPUTER-NETWORK-AND-COMPUTER-NETWORK-LAB/blob/main/Online%20Exam/TE_B_Online_Test(All%20Subject)-1.pdf)
- 
- - Online Test [All Subjects - 2](https://github.com/Amey-Thakur/COMPUTER-NETWORK-AND-COMPUTER-NETWORK-LAB/blob/main/Online%20Exam/TE_B_Online_Test(All%20Subject)-2.pdf)
- 
- - Online Test [All Subjects - 3](https://github.com/Amey-Thakur/COMPUTER-NETWORK-AND-COMPUTER-NETWORK-LAB/blob/main/Online%20Exam/TE_B_Online_Test(All%20Subject)-3.pdf)
- 
- - Online Test [All Subjects - 4](https://github.com/Amey-Thakur/COMPUTER-NETWORK-AND-COMPUTER-NETWORK-LAB/blob/main/Online%20Exam/TE_B_Online_Test(All%20Subject)-4.pdf)
-
-
-## Semester Exam
- 
- - CN Answer Sheet - [Q2](https://github.com/Amey-Thakur/COMPUTER-NETWORK-AND-COMPUTER-NETWORK-LAB/blob/main/Semester%20Exam/Q.2_CN.pdf) | [Q3](https://github.com/Amey-Thakur/COMPUTER-NETWORK-AND-COMPUTER-NETWORK-LAB/blob/main/Semester%20Exam/Q.3_CN.pdf)
-
-
-## Question Papers
- 
- - [Previous Question Papers](https://github.com/Amey-Thakur/COMPUTER-NETWORK-AND-COMPUTER-NETWORK-LAB/tree/main/Question%20Papers)
-
-
-## Exit Survey
- 
- - CN [Course Exit Survey](https://github.com/Amey-Thakur/COMPUTER-NETWORK-AND-COMPUTER-NETWORK-LAB/blob/main/Submission%20Report/Amey_B-50_CN_Theory_Exit_Survey.pdf)
- 
- - CN Lab [Course Exit Survey](https://github.com/Amey-Thakur/COMPUTER-NETWORK-AND-COMPUTER-NETWORK-LAB/blob/main/Submission%20Report/Amey_B-50_CN_Lab_Exit_Survey.pdf)
-
-
-## Submission Report 
- 
- - [Report](https://github.com/Amey-Thakur/COMPUTER-NETWORK/blob/main/Submission%20Report/Amey_B-50_CN_Submission_Report.pdf)
+| Resource | Description | Date | Link |
+|:---|:---|:---:|:-:|
+| 📄 **Practical Exam Report** | Hybrid Topology Implementation | December 12, 2020 | [View](Practical%20Exam/Amey_B-50_CN_Practical_Exam.pdf) |
+| 🌐 **Packet Tracer File** | Hybrid Topology Network Design | December 12, 2020 | [View](Practical%20Exam/AMEY_B-50_CN_EXAM_HYBRID_TOPOLOGY.pkt) |
+| 📋 **Exam Submission** | Official Practical Exam Submission | December 12, 2020 | [View](Practical%20Exam/TE_B_CN_Pr-Exam_10.30am-12.30pm_12_12_2020.pdf) |
 
 ---
 
-<p align="center"> <b> 👉🏻 Subject as a part of the 5th Semester of Engineering @ University of Mumbai 👈🏻 <b> </p>
- 
-<p align="center"><a href='https://github.com/Amey-Thakur/COMPUTER-ENGINEERING' style='color: greenyellow;'> ✌🏻 Back To Engineering ✌🏻</a></p>
- 
+<!-- =========================================================================================
+                                     QUIZZES SECTION
+     ========================================================================================= -->
+## Quizzes
+
+CN-specific quizzes conducted during the course:
+
+| Quiz | Topics | Date | Marks | Resource |
+|:-:|:---|:---:|:---:|:-:|
+| UT-2 | Network Layer, Transport Layer | - | - | [📄](Online%20Exam/CN%20UT-2.png) |
+
+---
+
+<!-- =========================================================================================
+                                     ONLINE EXAM SECTION
+     ========================================================================================= -->
+## Online Exam
+
+Online assessments conducted during the semester:
+
+| # | Exam | Subjects | Date | Resource |
+|:-:|:---|:---|:---:|:-:|
+| 1 | **Online Test 1** | All Subjects (Semester V) | - | [📄](Online%20Exam/TE_B_Online_Test(All%20Subject)-1.pdf) |
+| 2 | **Online Test 2** | All Subjects (Semester V) | - | [📄](Online%20Exam/TE_B_Online_Test(All%20Subject)-2.pdf) |
+| 3 | **Online Test 3** | All Subjects (Semester V) | - | [📄](Online%20Exam/TE_B_Online_Test(All%20Subject)-3.pdf) |
+| 4 | **Online Test 4** | All Subjects (Semester V) | - | [📄](Online%20Exam/TE_B_Online_Test(All%20Subject)-4.pdf) |
+
+---
+
+<!-- =========================================================================================
+                                     SEMESTER EXAM SECTION
+     ========================================================================================= -->
+## Semester Exam
+
+Final semester examination answer sheets:
+
+| Resource | Description | Link |
+|:---|:---|:-:|
+| 📝 **Question 2** | CN Semester Exam Answer Sheet | [View](Semester%20Exam/Q.2_CN.pdf) |
+| 📝 **Question 3** | CN Semester Exam Answer Sheet | [View](Semester%20Exam/Q.3_CN.pdf) |
+
+---
+
+<!-- =========================================================================================
+                                     QUESTION PAPERS SECTION
+     ========================================================================================= -->
+## Question Papers
+
+Previous year question papers for exam preparation:
+
+| Year | Month | Resource |
+|:---:|:---:|:-:|
+| 2018 | December | [📄 View](Question%20Papers/TE-Comps_SEM5_CN-CBCGS_DEC18.pdf) |
+| 2019 | May | [📄 View](Question%20Papers/TE-Comps_SEM5_CN-CBCGS_MAY19.pdf) |
+| 2019 | December | [📄 View](Question%20Papers/TE-Comps_SEM5_CN-CBCGS_DEC19.pdf) |
+
+---
+
+<!-- =========================================================================================
+                                     SUBMISSION REPORT SECTION
+     ========================================================================================= -->
+## Submission Completion Report
+
+Course completion documentation and exit surveys:
+
+| Document | Description | Link |
+|:---|:---|:-:|
+| 📊 **Submission Report** | Complete course submission documentation | [View](Submission%20Report/Amey_B-50_CN_Submission_Report.pdf) |
+| 📋 **Theory Exit Survey** | CN Course Exit Survey | [View](Submission%20Report/Amey_B-50_CN_Theory_Exit_Survey.pdf) |
+| 📋 **Lab Exit Survey** | CN Lab Course Exit Survey | [View](Submission%20Report/Amey_B-50_CN_Lab_Exit_Survey.pdf) |
+
+---
+
+<!-- =========================================================================================
+                                     SYLLABUS SECTION
+     ========================================================================================= -->
+## Syllabus
+
+Official University of Mumbai curriculum and syllabus:
+
+| Resource | Description |
+|:---|:---|
+| 📘 [Complete Syllabus](Syllabus/TE%20BE%20Comp%20Engg%20CBCGS%20Syllabus.pdf) | Detailed module-wise syllabus |
+| 📊 [Full Curriculum](Syllabus/MU%20COMP%20TE%20BE.pdf) | University of Mumbai official curriculum |
+
+---
+
+<!-- =========================================================================================
+                                     USAGE GUIDELINES SECTION
+     ========================================================================================= -->
+## Usage Guidelines
+
+This repository is openly shared to support learning and knowledge exchange across the academic community.
+
+**For Students**  
+Use these resources as reference materials for understanding network protocols, socket programming, and preparing for examinations. All content is organized for self-paced learning.
+
+**For Educators**  
+These materials may serve as curriculum references, lab examples, or supplementary teaching resources. Attribution is appreciated when utilizing content.
+
+**For Researchers**  
+The documentation and organization may provide insights into academic resource curation and educational content structuring.
+
+---
+
+<!-- =========================================================================================
+                                     LICENSE SECTION
+     ========================================================================================= -->
+## License
+
+This repository and all linked academic content are made available under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**. See the [LICENSE](LICENSE) file for complete terms.
+
+> [!NOTE]
+> **Summary**: You are free to share and adapt this content for any purpose, even commercially, as long as you provide appropriate attribution to the original author.
+
+---
+
+<!-- =========================================================================================
+                                     ABOUT SECTION
+     ========================================================================================= -->
+## About This Repository
+
+**Created & Maintained by**: [Amey Thakur](https://github.com/Amey-Thakur)  
+**Academic Journey**: Bachelor of Engineering in Computer Engineering (2018-2022)  
+**Institution**: [Terna Engineering College](https://ternaengg.ac.in/), Navi Mumbai  
+**University**: [University of Mumbai](https://mu.ac.in/)
+
+This repository represents a comprehensive collection of study materials, reference books, assignments, and personal preparation notes curated during my academic journey. All content has been carefully organized and documented to serve as a valuable resource for students pursuing Computer Network & CN Lab.
+
+**Connect**: [GitHub](https://github.com/Amey-Thakur) · [LinkedIn](https://www.linkedin.com/in/amey-thakur)
+
+### Acknowledgments
+
+Special thanks to the faculty members of the Department of Computer Engineering at Terna Engineering College for their guidance and instruction in Computer Networks. Their clear teaching and continued support helped develop a strong understanding of network protocols and communication systems.
+
+Special thanks to the mentors and peers whose encouragement, discussions, and support contributed meaningfully to this learning experience.
+
+---
+
+<!-- =========================================================================================
+                                     FOOTER SECTION
+     ========================================================================================= -->
+<div align="center">
+
+  <!-- Footer Navigation -->
+  **[⬆ Back to Top](#computer-network-and-computer-network-lab)**
+
+  **[📖 Overview](#overview)** &nbsp;·&nbsp; **[📂 Contents](#repository-contents)** &nbsp;·&nbsp; **[📚 Reference Books](#reference-books)** &nbsp;·&nbsp; **[📄 Assignments](#assignments)** &nbsp;·&nbsp; **[🧪 Laboratory](#computer-network-laboratory)** &nbsp;·&nbsp; **[🧠 Quizzes](#quizzes)** &nbsp;·&nbsp; **[💻 Online Exam](#online-exam)** &nbsp;·&nbsp; **[🎓 Semester Exam](#semester-exam)** &nbsp;·&nbsp; **[📝 Question Papers](#question-papers)** &nbsp;·&nbsp; **[✅ Submission Report](#submission-completion-report)** &nbsp;·&nbsp; **[📋 Syllabus](#syllabus)** &nbsp;·&nbsp; **[📘 Usage Guidelines](#usage-guidelines)** &nbsp;·&nbsp; **[📜 License](#license)** &nbsp;·&nbsp; **[ℹ️ About](#about-this-repository)** &nbsp;·&nbsp; **[🙏🏻 Acknowledgments](#acknowledgments)**
+
+  <br>
+
+  **[🌐 CISCO Lab](CISCO/)** &nbsp;·&nbsp; **[💻 Socket Programming](CISCO/Socket%20Programming/)**
+
+</div>
+
+---
+
+<div align="center">
+
+  ### 🎓 [Computer Engineering Repository](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING)
+
+  **Computer Engineering (B.E.) - University of Mumbai**
+
+  *Semester-wise curriculum, laboratories, projects, and academic notes.*
+
+</div>
