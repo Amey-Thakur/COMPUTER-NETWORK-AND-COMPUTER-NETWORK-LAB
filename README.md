@@ -98,12 +98,12 @@ Academic assignments for comprehensive learning and practice:
 
 | # | Assignment | Description | Date | Marks | Link |
 |:-:|:---|:---|:---:|:---:|:-:|
-| 1 | **Assignment 1** | OSI Model and Network Fundamentals | - | 09/10 | [📄 View](Assignments/Amey_B-50_CN_Assignment-1.pdf) |
-| 2 | **Assignment 2** | Physical and Data Link Layer | - | 10/10 | [📄 View](Assignments/Amey_B-50_CN_Assignment-2.pdf) |
-| 3 | **Assignment 3** | Network Layer and Routing | - | 10/10 | [📄 View](Assignments/Amey_B-50_CN_Assignment-3.pdf) |
-| 4 | **Assignment 4** | Transport Layer Protocols | - | 09/10 | [📄 View](Assignments/Amey_B-50_CN_Assignment-4.pdf) |
-| 5 | **Assignment 5** | Application Layer Services | - | 10/10 | [📄 View](Assignments/Amey_B-50_CN_Assignment-5.pdf) |
-| 6 | **Assignment 6** | Network Security and Management | - | 10/10 | [📄 View](Assignments/Amey_B-50_CN_Assignment-6.pdf) |
+| 1 | **Assignment 1** | OSI Model and Network Fundamentals | August 20, 2020 | 09/10 | [📄 View](Assignments/Amey_B-50_CN_Assignment-1.pdf) |
+| 2 | **Assignment 2** | Physical and Data Link Layer | August 28, 2020 | 10/10 | [📄 View](Assignments/Amey_B-50_CN_Assignment-2.pdf) |
+| 3 | **Assignment 3** | Network Layer and Routing | September 04, 2020 | 10/10 | [📄 View](Assignments/Amey_B-50_CN_Assignment-3.pdf) |
+| 4 | **Assignment 4** | Transport Layer Protocols | October 12, 2020 | 09/10 | [📄 View](Assignments/Amey_B-50_CN_Assignment-4.pdf) |
+| 5 | **Assignment 5** | Application Layer Services | October 29, 2020 | 10/10 | [📄 View](Assignments/Amey_B-50_CN_Assignment-5.pdf) |
+| 6 | **Assignment 6** | Network Security and Management | October 30, 2020 | 10/10 | [📄 View](Assignments/Amey_B-50_CN_Assignment-6.pdf) |
 
 **Topics Covered**: OSI Model · TCP/IP Protocol Suite · Error Detection/Correction · Routing Algorithms · TCP/UDP · Socket Programming · Network Security
 
