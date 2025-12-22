@@ -118,27 +118,27 @@ The laboratory component (CSL502) focuses on hands-on implementation of network 
 
 <div align="center">
 
-  [![Total Experiments](https://img.shields.io/badge/Total%20Experiments-10-yellowgreen.svg)](CISCO/)
-  [![Language](https://img.shields.io/badge/Language-Python%20%7C%20Cisco-blueviolet.svg)](CISCO/)
-  [![Status](https://img.shields.io/badge/Status-Complete-brightgreen.svg)](CISCO/)
+  [![Total Experiments](https://img.shields.io/badge/Total%20Experiments-10-yellowgreen.svg)](Computer Network Lab/CISCO/)
+  [![Language](https://img.shields.io/badge/Language-Python%20%7C%20Cisco-blueviolet.svg)](Computer Network Lab/CISCO/)
+  [![Status](https://img.shields.io/badge/Status-Complete-brightgreen.svg)](Computer Network Lab/CISCO/)
 
 </div>
 
 > [!TIP]
-> **Source Code**: For complete Python socket programming code and Cisco Packet Tracer files, visit the [**CISCO**](CISCO/) directory.
+> **Source Code**: For complete Python socket programming code and Cisco Packet Tracer files, visit the [**CISCO**](Computer Network Lab/CISCO/) directory.
 
 | # | Experiment Name | Description | Date | Marks | Resource |
 |:-:|:---|:---|:---:|:---:|:-:|
-| 1 | **Network Topologies** | LAN Configuration | July 31, 2020 | 14/15 | [📄](Experiments/Amey_B-50_CN_Experiment-1.pdf) |
-| 2 | **Star Topology** | Star Network Implementation | August 07, 2020 | 15/15 | [📄](Experiments/Amey_B-50_CN_Experiment-2.pdf) |
-| 3 | **Ring Topology** | Ring Network Configuration | August 14, 2020 | 15/15 | [📄](Experiments/Amey_B-50_CN_Experiment-3.pdf) |
-| 4 | **Tree Topology** | Hierarchical Network Design | August 21, 2020 | 15/15 | [📄](Experiments/Amey_B-50_CN_Experiment-4.pdf) |
-| 5 | **FTP Configuration** | File Transfer Protocol Setup | September 11, 2020 | 15/15 | [📄](Experiments/Amey_B-50_CN_Experiment-5.pdf) |
-| 6 | **OSPF Routing** | Open Shortest Path First Protocol | September 18, 2020 | 15/15 | [📄](Experiments/Amey_B-50_CN_Experiment-6.pdf) |
-| 7 | **Socket Programming** | TCP Client-Server Communication | October 05, 2020 | 14/15 | [📄](Experiments/Amey_B-50_CN_Experiment-7.pdf) |
-| 8 | **Error Detection** | CRC Implementation | October 08, 2020 | 14/15 | [📄](Experiments/Amey_B-50_CN_Experiment-8.pdf) |
-| 9 | **Hybrid Topology** | Combined Network Design | October 16, 2020 | 14/15 | [📄](Experiments/Amey_B-50_CN_Experiment-9.pdf) |
-| 10 | **Network Simulation** | Complete Network Setup | October 28, 2020 | 14/15 | [📄](Experiments/Amey_B-50_CN_Experiment-10.pdf) |
+| 1 | **Network Topologies** | LAN Configuration | July 31, 2020 | 14/15 | [📄](Computer Network Lab/Experiments/Amey_B-50_CN_Experiment-1.pdf) |
+| 2 | **Star Topology** | Star Network Implementation | August 07, 2020 | 15/15 | [📄](Computer Network Lab/Experiments/Amey_B-50_CN_Experiment-2.pdf) |
+| 3 | **Ring Topology** | Ring Network Configuration | August 14, 2020 | 15/15 | [📄](Computer Network Lab/Experiments/Amey_B-50_CN_Experiment-3.pdf) |
+| 4 | **Tree Topology** | Hierarchical Network Design | August 21, 2020 | 15/15 | [📄](Computer Network Lab/Experiments/Amey_B-50_CN_Experiment-4.pdf) |
+| 5 | **FTP Configuration** | File Transfer Protocol Setup | September 11, 2020 | 15/15 | [📄](Computer Network Lab/Experiments/Amey_B-50_CN_Experiment-5.pdf) |
+| 6 | **OSPF Routing** | Open Shortest Path First Protocol | September 18, 2020 | 15/15 | [📄](Computer Network Lab/Experiments/Amey_B-50_CN_Experiment-6.pdf) |
+| 7 | **Socket Programming** | TCP Client-Server Communication | October 05, 2020 | 14/15 | [📄](Computer Network Lab/Experiments/Amey_B-50_CN_Experiment-7.pdf) |
+| 8 | **Error Detection** | CRC Implementation | October 08, 2020 | 14/15 | [📄](Computer Network Lab/Experiments/Amey_B-50_CN_Experiment-8.pdf) |
+| 9 | **Hybrid Topology** | Combined Network Design | October 16, 2020 | 14/15 | [📄](Computer Network Lab/Experiments/Amey_B-50_CN_Experiment-9.pdf) |
+| 10 | **Network Simulation** | Complete Network Setup | October 28, 2020 | 14/15 | [📄](Computer Network Lab/Experiments/Amey_B-50_CN_Experiment-10.pdf) |
 
 ### Program Details
 
@@ -147,7 +147,7 @@ The laboratory component (CSL502) focuses on hands-on implementation of network 
 
 | Program | Category | Description | Code |
 |:---|:---|:---|:-:|
-| `CN_LAN.pkt` | Network Design | LAN Configuration using Cisco Packet Tracer | [View](CISCO/CN_LAN.pkt) |
+| `CN_LAN.pkt` | Network Design | LAN Configuration using Cisco Packet Tracer | [View](Computer Network Lab/CISCO/CN_LAN.pkt) |
 
 </details>
 
@@ -156,7 +156,7 @@ The laboratory component (CSL502) focuses on hands-on implementation of network 
 
 | Program | Category | Description | Code |
 |:---|:---|:---|:-:|
-| `CN_STAR.pkt` | Network Design | Star Network Implementation | [View](CISCO/CN_STAR.pkt) |
+| `CN_STAR.pkt` | Network Design | Star Network Implementation | [View](Computer Network Lab/CISCO/CN_STAR.pkt) |
 
 </details>
 
@@ -165,7 +165,7 @@ The laboratory component (CSL502) focuses on hands-on implementation of network 
 
 | Program | Category | Description | Code |
 |:---|:---|:---|:-:|
-| `CN_RING.pkt` | Network Design | Ring Network Configuration | [View](CISCO/CN_RING.pkt) |
+| `CN_RING.pkt` | Network Design | Ring Network Configuration | [View](Computer Network Lab/CISCO/CN_RING.pkt) |
 
 </details>
 
@@ -174,7 +174,7 @@ The laboratory component (CSL502) focuses on hands-on implementation of network 
 
 | Program | Category | Description | Code |
 |:---|:---|:---|:-:|
-| `CN_TREE.pkt` | Network Design | Hierarchical Tree Network Design | [View](CISCO/CN_TREE.pkt) |
+| `CN_TREE.pkt` | Network Design | Hierarchical Tree Network Design | [View](Computer Network Lab/CISCO/CN_TREE.pkt) |
 
 </details>
 
@@ -183,7 +183,7 @@ The laboratory component (CSL502) focuses on hands-on implementation of network 
 
 | Program | Category | Description | Code |
 |:---|:---|:---|:-:|
-| `CN_FTP.pkt` | Application Layer | File Transfer Protocol Server Setup | [View](CISCO/CN_FTP.pkt) |
+| `CN_FTP.pkt` | Application Layer | File Transfer Protocol Server Setup | [View](Computer Network Lab/CISCO/CN_FTP.pkt) |
 
 </details>
 
@@ -192,7 +192,7 @@ The laboratory component (CSL502) focuses on hands-on implementation of network 
 
 | Program | Category | Description | Code |
 |:---|:---|:---|:-:|
-| `CN_OSPF.pkt` | Routing Protocol | Open Shortest Path First Implementation | [View](CISCO/CN_OSPF.pkt) |
+| `CN_OSPF.pkt` | Routing Protocol | Open Shortest Path First Implementation | [View](Computer Network Lab/CISCO/CN_OSPF.pkt) |
 
 </details>
 
@@ -201,8 +201,8 @@ The laboratory component (CSL502) focuses on hands-on implementation of network 
 
 | Program | Category | Description | Code |
 |:---|:---|:---|:-:|
-| `TCP_Server.py` | Socket Programming | TCP Server Implementation | [View](CISCO/Socket%20Programming/TCP_Server.py) |
-| `TCP_Client.py` | Socket Programming | TCP Client Implementation | [View](CISCO/Socket%20Programming/TCP_Client.py) |
+| `TCP_Server.py` | Socket Programming | TCP Server Implementation | [View](Computer Network Lab/CISCO/Socket%20Programming/TCP_Server.py) |
+| `TCP_Client.py` | Socket Programming | TCP Client Implementation | [View](Computer Network Lab/CISCO/Socket%20Programming/TCP_Client.py) |
 
 </details>
 
@@ -211,7 +211,7 @@ The laboratory component (CSL502) focuses on hands-on implementation of network 
 
 | Program | Category | Description | Code |
 |:---|:---|:---|:-:|
-| `CRC_Error_Detection.py` | Error Detection | Cyclic Redundancy Check Algorithm | [View](CISCO/CRC_Error_Detection.py) |
+| `CRC_Error_Detection.py` | Error Detection | Cyclic Redundancy Check Algorithm | [View](Computer Network Lab/CISCO/CRC_Error_Detection.py) |
 
 </details>
 
@@ -220,7 +220,7 @@ The laboratory component (CSL502) focuses on hands-on implementation of network 
 
 | Program | Category | Description | Code |
 |:---|:---|:---|:-:|
-| `AMEY_B-50_CN_EXAM_HYBRID_TOPOLOGY.pkt` | Network Design | Hybrid Topology (Bus + Star) | [View](CISCO/AMEY_B-50_CN_EXAM_HYBRID_TOPOLOGY.pkt) |
+| `AMEY_B-50_CN_EXAM_HYBRID_TOPOLOGY.pkt` | Network Design | Hybrid Topology (Bus + Star) | [View](Computer Network Lab/CISCO/AMEY_B-50_CN_EXAM_HYBRID_TOPOLOGY.pkt) |
 
 </details>
 
@@ -229,7 +229,7 @@ The laboratory component (CSL502) focuses on hands-on implementation of network 
 
 | Program | Category | Description | Code |
 |:---|:---|:---|:-:|
-| Various `.pkt` files | Network Simulation | Complete network setup combining all concepts | [View CISCO Folder](CISCO/) |
+| Various `.pkt` files | Network Simulation | Complete network setup combining all concepts | [View CISCO Folder](Computer Network Lab/CISCO/) |
 
 </details>
 
@@ -237,10 +237,10 @@ The laboratory component (CSL502) focuses on hands-on implementation of network 
 
 | Resource | Description |
 |:---|:---|
-| 💻 [Socket Programming](CISCO/Socket%20Programming/) | TCP Client-Server Python implementation |
-| 🔍 [CRC Error Detection](CISCO/CRC_Error_Detection.py) | Cyclic Redundancy Check algorithm |
-| 🌐 [Cisco Packet Tracer Files](CISCO/) | Network topology simulation files |
-| 📖 [Lab README](CISCO/README.md) | Detailed navigation guide with program descriptions |
+| 💻 [Socket Programming](Computer Network Lab/CISCO/Socket%20Programming/) | TCP Client-Server Python implementation |
+| 🔍 [CRC Error Detection](Computer Network Lab/CISCO/CRC_Error_Detection.py) | Cyclic Redundancy Check algorithm |
+| 🌐 [Cisco Packet Tracer Files](Computer Network Lab/CISCO/) | Network topology simulation files |
+| 📖 [Lab README](Computer Network Lab/CISCO/README.md) | Detailed navigation guide with program descriptions |
 
 ---
 
@@ -415,7 +415,7 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
 
   <br>
 
-  **[🌐 CISCO Lab](CISCO/)** &nbsp;·&nbsp; **[💻 Socket Programming](CISCO/Socket%20Programming/)**
+  **[🌐 CISCO Lab](Computer Network Lab/CISCO/)** &nbsp;·&nbsp; **[💻 Socket Programming](Computer Network Lab/CISCO/Socket%20Programming/)**
 
 </div>
 
