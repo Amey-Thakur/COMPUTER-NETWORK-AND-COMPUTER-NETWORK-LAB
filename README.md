@@ -422,7 +422,7 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
 
   <br>
 
-  **[🧪 Computer Network Lab](Computer%20Network%20Lab/)**
+  **[Computer Network Lab](Computer%20Network%20Lab/)**
 
 </div>
 
