@@ -30,6 +30,59 @@
 ---
 
 <!-- =========================================================================================
+                                     HOW TO USE SECTION
+     ========================================================================================= -->
+## 🚀 How to Use
+
+### Running Simulations
+These simulations are tailored for **Cisco Packet Tracer**.
+
+**1. Prerequisites**
+Ensure you have the following software installed:
+- **Cisco Packet Tracer** (for `.pkt` files)
+- **Python 3.x** (for socket programming)
+
+**2. Cisco Packet Tracer Guide**
+ To run network simulations:
+1. **Launch** Cisco Packet Tracer.
+2. **Open** the desired `.pkt` file (e.g., `CN_LAN.pkt`).
+3. **Simulate** the network behavior using the "Simulation" tab.
+4. **Verify** connectivity using PDU transfer or `ping` command in CLI.
+
+**3. Python Execution Guide**
+To execute socket programming scripts (e.g., `TCP_Server.py`):
+
+```bash
+# Step 1: Start the Server
+python TCP_Server.py
+
+# Step 2: Start the Client (in a new terminal)
+python TCP_Client.py
+```
+
+---
+
+<!-- =========================================================================================
+                                     LEARNING PATH SECTION
+     ========================================================================================= -->
+## 📖 Learning Path
+
+**Beginner Level:**
+- Start with **Experiments 1-4** to understand basic network topologies (LAN, Star, Ring, Tree).
+- Practice creating simple networks in Cisco Packet Tracer.
+
+**Intermediate Level:**
+- Explore **Experiments 5 & 6** to learn application layer protocols (FTP) and routing (OSPF).
+- Understand how data flows across complex networks.
+
+**Advanced Level:**
+- Study **Experiments 7 & 8** for socket programming and error detection algorithms.
+- Master **Experiments 9 & 10** for hybrid network design and complete simulations.
+
+---
+
+
+<!-- =========================================================================================
                                      EXPERIMENT 1
      ========================================================================================= -->
 ## Experiment 1: Network Topologies
@@ -170,57 +223,7 @@ Complete network setup and simulation combining all learned concepts.
 
 ---
 
-<!-- =========================================================================================
-                                     HOW TO USE SECTION
-     ========================================================================================= -->
-## 🚀 How to Use
 
-### Running Simulations
-These simulations are tailored for **Cisco Packet Tracer**.
-
-**1. Prerequisites**
-Ensure you have the following software installed:
-- **Cisco Packet Tracer** (for `.pkt` files)
-- **Python 3.x** (for socket programming)
-
-**2. Cisco Packet Tracer Guide**
- To run network simulations:
-1. **Launch** Cisco Packet Tracer.
-2. **Open** the desired `.pkt` file (e.g., `CN_LAN.pkt`).
-3. **Simulate** the network behavior using the "Simulation" tab.
-4. **Verify** connectivity using PDU transfer or `ping` command in CLI.
-
-**3. Python Execution Guide**
-To execute socket programming scripts (e.g., `TCP_Server.py`):
-
-```bash
-# Step 1: Start the Server
-python TCP_Server.py
-
-# Step 2: Start the Client (in a new terminal)
-python TCP_Client.py
-```
-
----
-
-<!-- =========================================================================================
-                                     LEARNING PATH SECTION
-     ========================================================================================= -->
-## 📖 Learning Path
-
-**Beginner Level:**
-- Start with **Experiments 1-4** to understand basic network topologies (LAN, Star, Ring, Tree).
-- Practice creating simple networks in Cisco Packet Tracer.
-
-**Intermediate Level:**
-- Explore **Experiments 5 & 6** to learn application layer protocols (FTP) and routing (OSPF).
-- Understand how data flows across complex networks.
-
-**Advanced Level:**
-- Study **Experiments 7 & 8** for socket programming and error detection algorithms.
-- Master **Experiments 9 & 10** for hybrid network design and complete simulations.
-
----
 
 <!-- =========================================================================================
                                      FOOTER SECTION
