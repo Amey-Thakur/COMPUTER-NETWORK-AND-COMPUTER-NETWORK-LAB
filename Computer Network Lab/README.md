@@ -32,7 +32,7 @@
 <!-- =========================================================================================
                                      HOW TO USE SECTION
      ========================================================================================= -->
-## 🚀 How to Use
+## How to Use
 
 ### Running Simulations
 These simulations are tailored for **Cisco Packet Tracer**.
@@ -65,7 +65,7 @@ python TCP_Client.py
 <!-- =========================================================================================
                                      LEARNING PATH SECTION
      ========================================================================================= -->
-## 📖 Learning Path
+## Learning Path
 
 **Beginner Level:**
 - Start with **Experiments 1-4** to understand basic network topologies (LAN, Star, Ring, Tree).
