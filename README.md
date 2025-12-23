@@ -143,7 +143,7 @@ The laboratory component (CSL502) focuses on hands-on implementation of network 
 ### Program Details
 
 <details>
-<summary><b>📂 Experiment 1: Network Topologies (1 Program)</b></summary>
+<summary><b>Experiment 1: Network Topologies (1 Program)</b></summary>
 
 | Program | Category | Description | Code |
 |:---|:---|:---|:-:|
@@ -152,7 +152,7 @@ The laboratory component (CSL502) focuses on hands-on implementation of network 
 </details>
 
 <details>
-<summary><b>⭐ Experiment 2: Star Topology (1 Program)</b></summary>
+<summary><b>Experiment 2: Star Topology (1 Program)</b></summary>
 
 | Program | Category | Description | Code |
 |:---|:---|:---|:-:|
@@ -161,7 +161,7 @@ The laboratory component (CSL502) focuses on hands-on implementation of network 
 </details>
 
 <details>
-<summary><b>🔄 Experiment 3: Ring Topology (1 Program)</b></summary>
+<summary><b>Experiment 3: Ring Topology (1 Program)</b></summary>
 
 | Program | Category | Description | Code |
 |:---|:---|:---|:-:|
@@ -170,7 +170,7 @@ The laboratory component (CSL502) focuses on hands-on implementation of network 
 </details>
 
 <details>
-<summary><b>🌳 Experiment 4: Tree Topology (1 Program)</b></summary>
+<summary><b>Experiment 4: Tree Topology (1 Program)</b></summary>
 
 | Program | Category | Description | Code |
 |:---|:---|:---|:-:|
@@ -179,7 +179,7 @@ The laboratory component (CSL502) focuses on hands-on implementation of network 
 </details>
 
 <details>
-<summary><b>📁 Experiment 5: FTP Configuration (1 Program)</b></summary>
+<summary><b>Experiment 5: FTP Configuration (1 Program)</b></summary>
 
 | Program | Category | Description | Code |
 |:---|:---|:---|:-:|
@@ -188,7 +188,7 @@ The laboratory component (CSL502) focuses on hands-on implementation of network 
 </details>
 
 <details>
-<summary><b>🔀 Experiment 6: OSPF Routing (1 Program)</b></summary>
+<summary><b>Experiment 6: OSPF Routing (1 Program)</b></summary>
 
 | Program | Category | Description | Code |
 |:---|:---|:---|:-:|
@@ -197,7 +197,7 @@ The laboratory component (CSL502) focuses on hands-on implementation of network 
 </details>
 
 <details>
-<summary><b>💻 Experiment 7: Socket Programming (2 Programs)</b></summary>
+<summary><b>Experiment 7: Socket Programming (2 Programs)</b></summary>
 
 | Program | Category | Description | Code |
 |:---|:---|:---|:-:|
@@ -207,7 +207,7 @@ The laboratory component (CSL502) focuses on hands-on implementation of network 
 </details>
 
 <details>
-<summary><b>🔍 Experiment 8: Error Detection (1 Program)</b></summary>
+<summary><b>Experiment 8: Error Detection (1 Program)</b></summary>
 
 | Program | Category | Description | Code |
 |:---|:---|:---|:-:|
@@ -216,7 +216,7 @@ The laboratory component (CSL502) focuses on hands-on implementation of network 
 </details>
 
 <details>
-<summary><b>🔗 Experiment 9: Hybrid Topology (1 Program)</b></summary>
+<summary><b>Experiment 9: Hybrid Topology (1 Program)</b></summary>
 
 | Program | Category | Description | Code |
 |:---|:---|:---|:-:|
@@ -225,7 +225,7 @@ The laboratory component (CSL502) focuses on hands-on implementation of network 
 </details>
 
 <details>
-<summary><b>🌐 Experiment 10: Network Simulation (Multiple Programs)</b></summary>
+<summary><b>Experiment 10: Network Simulation (Multiple Programs)</b></summary>
 
 | Program | Category | Description | Code |
 |:---|:---|:---|:-:|
@@ -237,10 +237,10 @@ The laboratory component (CSL502) focuses on hands-on implementation of network 
 
 | Resource | Description |
 |:---|:---|
-| 💻 [Socket Programming](Computer%20Network%20Lab/CISCO/Socket%20Programming/) | TCP Client-Server Python implementation |
-| 🔍 [CRC Error Detection](Computer%20Network%20Lab/CISCO/CRC_Error_Detection.py) | Cyclic Redundancy Check algorithm |
-| 🌐 [Cisco Packet Tracer Files](Computer%20Network%20Lab/CISCO/) | Network topology simulation files |
-| 📖 [Lab README](Computer%20Network%20Lab/README.md) | Detailed navigation guide with program descriptions |
+| [Socket Programming](Computer%20Network%20Lab/CISCO/Socket%20Programming/) | TCP Client-Server Python implementation |
+| [CRC Error Detection](Computer%20Network%20Lab/CISCO/CRC_Error_Detection.py) | Cyclic Redundancy Check algorithm |
+| [Cisco Packet Tracer Files](Computer%20Network%20Lab/CISCO/) | Network topology simulation files |
+| [Lab README](Computer%20Network%20Lab/README.md) | Detailed navigation guide with program descriptions |
 
 > [!NOTE]
 > **COVID-19 Impact**: This coursework was completed during the COVID-19 pandemic (Semester V, 2020). All laboratory experiments were conducted remotely using Cisco Packet Tracer simulations and Python socket programming. Despite the challenges of online learning, all 10 experiments were successfully completed with practical implementations preserved in this repository.
