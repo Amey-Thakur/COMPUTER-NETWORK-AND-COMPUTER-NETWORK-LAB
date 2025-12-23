@@ -15,7 +15,7 @@
 
   ---
 
-  **[📂 Experiment 1](#-experiment-1-network-topologies)** &nbsp;·&nbsp; **[⭐ Experiment 2](#-experiment-2-star-topology)** &nbsp;·&nbsp; **[🔄 Experiment 3](#-experiment-3-ring-topology)** &nbsp;·&nbsp; **[🌳 Experiment 4](#-experiment-4-tree-topology)** &nbsp;·&nbsp; **[📁 Experiment 5](#-experiment-5-ftp-configuration)** &nbsp;·&nbsp; **[🔀 Experiment 6](#-experiment-6-ospf-routing)** &nbsp;·&nbsp; **[💻 Experiment 7](#-experiment-7-socket-programming)** &nbsp;·&nbsp; **[🔍 Experiment 8](#-experiment-8-error-detection)** &nbsp;·&nbsp; **[🔗 Experiment 9](#-experiment-9-hybrid-topology)** &nbsp;·&nbsp; **[🌐 Experiment 10](#-experiment-10-network-simulation)** &nbsp;·&nbsp; **[🚀 How to Use](#-how-to-use)** &nbsp;·&nbsp; **[📖 Learning Path](#-learning-path)**
+  **[How to Use](#how-to-use)** &nbsp;·&nbsp; **[Learning Path](#learning-path)** &nbsp;·&nbsp; **[Experiment 1](#experiment-1-network-topologies)** &nbsp;·&nbsp; **[Experiment 2](#experiment-2-star-topology)** &nbsp;·&nbsp; **[Experiment 3](#experiment-3-ring-topology)** &nbsp;·&nbsp; **[Experiment 4](#experiment-4-tree-topology)** &nbsp;·&nbsp; **[Experiment 5](#experiment-5-ftp-configuration)** &nbsp;·&nbsp; **[Experiment 6](#experiment-6-ospf-routing)** &nbsp;·&nbsp; **[Experiment 7](#experiment-7-socket-programming)** &nbsp;·&nbsp; **[Experiment 8](#experiment-8-error-detection)** &nbsp;·&nbsp; **[Experiment 9](#experiment-9-hybrid-topology)** &nbsp;·&nbsp; **[Experiment 10](#experiment-10-network-simulation)**
 
 </div>
 
@@ -32,91 +32,91 @@
 <!-- =========================================================================================
                                      EXPERIMENT 1
      ========================================================================================= -->
-## 📂 Experiment 1: Network Topologies
+## Experiment 1: Network Topologies
 
 Implementation of basic LAN configuration using Cisco Packet Tracer to understand network fundamentals.
 
 | # | Program | Description | Source Code |
 |:---|:---|:---|:-:|
 | 1 | [CN_LAN.pkt](CISCO/CN_LAN.pkt) | LAN Configuration using switches and routers | [View](CISCO/CN_LAN.pkt) |
-| 📄 | [Lab Report](Experiments/Amey_B-50_CN_Experiment-1.pdf) | Detailed experiment report | [View](Experiments/Amey_B-50_CN_Experiment-1.pdf) |
+| 2 | [Lab Report](Experiments/Amey_B-50_CN_Experiment-1.pdf) | Detailed experiment report | [View](Experiments/Amey_B-50_CN_Experiment-1.pdf) |
 
 ---
 
 <!-- =========================================================================================
                                      EXPERIMENT 2
      ========================================================================================= -->
-## ⭐ Experiment 2: Star Topology
+## Experiment 2: Star Topology
 
 Implementation of Star network topology where all nodes connect to a central hub/switch.
 
 | # | Program | Description | Source Code |
 |:---|:---|:---|:-:|
 | 1 | [CN_STAR.pkt](CISCO/CN_STAR.pkt) | Star Network with central switch | [View](CISCO/CN_STAR.pkt) |
-| 📄 | [Lab Report](Experiments/Amey_B-50_CN_Experiment-2.pdf) | Detailed experiment report | [View](Experiments/Amey_B-50_CN_Experiment-2.pdf) |
+| 2 | [Lab Report](Experiments/Amey_B-50_CN_Experiment-2.pdf) | Detailed experiment report | [View](Experiments/Amey_B-50_CN_Experiment-2.pdf) |
 
 ---
 
 <!-- =========================================================================================
                                      EXPERIMENT 3
      ========================================================================================= -->
-## 🔄 Experiment 3: Ring Topology
+## Experiment 3: Ring Topology
 
 Implementation of Ring network topology where each node connects to exactly two other nodes.
 
 | # | Program | Description | Source Code |
 |:---|:---|:---|:-:|
 | 1 | [CN_RING.pkt](CISCO/CN_RING.pkt) | Ring Network Configuration | [View](CISCO/CN_RING.pkt) |
-| 📄 | [Lab Report](Experiments/Amey_B-50_CN_Experiment-3.pdf) | Detailed experiment report | [View](Experiments/Amey_B-50_CN_Experiment-3.pdf) |
+| 2 | [Lab Report](Experiments/Amey_B-50_CN_Experiment-3.pdf) | Detailed experiment report | [View](Experiments/Amey_B-50_CN_Experiment-3.pdf) |
 
 ---
 
 <!-- =========================================================================================
                                      EXPERIMENT 4
      ========================================================================================= -->
-## 🌳 Experiment 4: Tree Topology
+## Experiment 4: Tree Topology
 
 Implementation of hierarchical Tree topology combining characteristics of Star and Bus topologies.
 
 | # | Program | Description | Source Code |
 |:---|:---|:---|:-:|
 | 1 | [CN_TREE.pkt](CISCO/CN_TREE.pkt) | Hierarchical Tree Network Design | [View](CISCO/CN_TREE.pkt) |
-| 📄 | [Lab Report](Experiments/Amey_B-50_CN_Experiment-4.pdf) | Detailed experiment report | [View](Experiments/Amey_B-50_CN_Experiment-4.pdf) |
+| 2 | [Lab Report](Experiments/Amey_B-50_CN_Experiment-4.pdf) | Detailed experiment report | [View](Experiments/Amey_B-50_CN_Experiment-4.pdf) |
 
 ---
 
 <!-- =========================================================================================
                                      EXPERIMENT 5
      ========================================================================================= -->
-## 📁 Experiment 5: FTP Configuration
+## Experiment 5: FTP Configuration
 
 Configuration of File Transfer Protocol (FTP) server and client for file sharing across the network.
 
 | # | Program | Description | Source Code |
 |:---|:---|:---|:-:|
 | 1 | [CN_FTP.pkt](CISCO/CN_FTP.pkt) | FTP Server Setup and Configuration | [View](CISCO/CN_FTP.pkt) |
-| 📄 | [Lab Report](Experiments/Amey_B-50_CN_Experiment-5.pdf) | Detailed experiment report | [View](Experiments/Amey_B-50_CN_Experiment-5.pdf) |
+| 2 | [Lab Report](Experiments/Amey_B-50_CN_Experiment-5.pdf) | Detailed experiment report | [View](Experiments/Amey_B-50_CN_Experiment-5.pdf) |
 
 ---
 
 <!-- =========================================================================================
                                      EXPERIMENT 6
      ========================================================================================= -->
-## 🔀 Experiment 6: OSPF Routing
+## Experiment 6: OSPF Routing
 
 Implementation of Open Shortest Path First (OSPF) dynamic routing protocol for efficient packet routing.
 
 | # | Program | Description | Source Code |
 |:---|:---|:---|:-:|
 | 1 | [CN_OSPF.pkt](CISCO/CN_OSPF.pkt) | OSPF Dynamic Routing Implementation | [View](CISCO/CN_OSPF.pkt) |
-| 📄 | [Lab Report](Experiments/Amey_B-50_CN_Experiment-6.pdf) | Detailed experiment report | [View](Experiments/Amey_B-50_CN_Experiment-6.pdf) |
+| 2 | [Lab Report](Experiments/Amey_B-50_CN_Experiment-6.pdf) | Detailed experiment report | [View](Experiments/Amey_B-50_CN_Experiment-6.pdf) |
 
 ---
 
 <!-- =========================================================================================
                                      EXPERIMENT 7
      ========================================================================================= -->
-## 💻 Experiment 7: Socket Programming
+## Experiment 7: Socket Programming
 
 Implementation of TCP Client-Server communication using Python socket library.
 
@@ -124,49 +124,49 @@ Implementation of TCP Client-Server communication using Python socket library.
 |:---|:---|:---|:-:|
 | 1 | [TCP_Server.py](CISCO/Socket%20Programming/TCP_Server.py) | TCP Server Implementation | [View](CISCO/Socket%20Programming/TCP_Server.py) |
 | 2 | [TCP_Client.py](CISCO/Socket%20Programming/TCP_Client.py) | TCP Client Implementation | [View](CISCO/Socket%20Programming/TCP_Client.py) |
-| 📄 | [Lab Report](Experiments/Amey_B-50_CN_Experiment-7.pdf) | Detailed experiment report | [View](Experiments/Amey_B-50_CN_Experiment-7.pdf) |
+| 3 | [Lab Report](Experiments/Amey_B-50_CN_Experiment-7.pdf) | Detailed experiment report | [View](Experiments/Amey_B-50_CN_Experiment-7.pdf) |
 
 ---
 
 <!-- =========================================================================================
                                      EXPERIMENT 8
      ========================================================================================= -->
-## 🔍 Experiment 8: Error Detection
+## Experiment 8: Error Detection
 
 Implementation of Cyclic Redundancy Check (CRC) algorithm for error detection in data transmission.
 
 | # | Program | Description | Source Code |
 |:---|:---|:---|:-:|
 | 1 | [CRC_Error_Detection.py](CISCO/CRC_Error_Detection.py) | CRC Algorithm Implementation | [View](CISCO/CRC_Error_Detection.py) |
-| 📄 | [Lab Report](Experiments/Amey_B-50_CN_Experiment-8.pdf) | Detailed experiment report | [View](Experiments/Amey_B-50_CN_Experiment-8.pdf) |
+| 2 | [Lab Report](Experiments/Amey_B-50_CN_Experiment-8.pdf) | Detailed experiment report | [View](Experiments/Amey_B-50_CN_Experiment-8.pdf) |
 
 ---
 
 <!-- =========================================================================================
                                      EXPERIMENT 9
      ========================================================================================= -->
-## 🔗 Experiment 9: Hybrid Topology
+## Experiment 9: Hybrid Topology
 
 Implementation of Hybrid topology combining Bus and Star topologies for practical network design.
 
 | # | Program | Description | Source Code |
 |:---|:---|:---|:-:|
 | 1 | [AMEY_B-50_CN_EXAM_HYBRID_TOPOLOGY.pkt](CISCO/AMEY_B-50_CN_EXAM_HYBRID_TOPOLOGY.pkt) | Hybrid Topology (Bus + Star) | [View](CISCO/AMEY_B-50_CN_EXAM_HYBRID_TOPOLOGY.pkt) |
-| 📄 | [Lab Report](Experiments/Amey_B-50_CN_Experiment-9.pdf) | Detailed experiment report | [View](Experiments/Amey_B-50_CN_Experiment-9.pdf) |
+| 2 | [Lab Report](Experiments/Amey_B-50_CN_Experiment-9.pdf) | Detailed experiment report | [View](Experiments/Amey_B-50_CN_Experiment-9.pdf) |
 
 ---
 
 <!-- =========================================================================================
                                      EXPERIMENT 10
      ========================================================================================= -->
-## 🌐 Experiment 10: Network Simulation
+## Experiment 10: Network Simulation
 
 Complete network setup and simulation combining all learned concepts.
 
 | # | Program | Description | Source Code |
 |:---|:---|:---|:-:|
-| 📁 | [All Packet Tracer Files](CISCO/) | Complete network simulation files | [View](CISCO/) |
-| 📄 | [Lab Report](Experiments/Amey_B-50_CN_Experiment-10.pdf) | Detailed experiment report | [View](Experiments/Amey_B-50_CN_Experiment-10.pdf) |
+| 1 | [All Packet Tracer Files](CISCO/) | Complete network simulation files | [View](CISCO/) |
+| 2 | [Lab Report](Experiments/Amey_B-50_CN_Experiment-10.pdf) | Detailed experiment report | [View](Experiments/Amey_B-50_CN_Experiment-10.pdf) |
 
 ---
 
@@ -175,25 +175,31 @@ Complete network setup and simulation combining all learned concepts.
      ========================================================================================= -->
 ## 🚀 How to Use
 
-### For Cisco Packet Tracer Files (.pkt)
+### Running Simulations
+These simulations are tailored for **Cisco Packet Tracer**.
 
-1. **Install Cisco Packet Tracer** from [Cisco Networking Academy](https://www.netacad.com/courses/packet-tracer).
-2. **Open** the `.pkt` file in Cisco Packet Tracer.
-3. **Simulate** the network by clicking the "Simulation" tab.
-4. **Test connectivity** using the ping command or PDU (Protocol Data Unit).
+**1. Prerequisites**
+Ensure you have the following software installed:
+- **Cisco Packet Tracer** (for `.pkt` files)
+- **Python 3.x** (for socket programming)
 
-### For Python Programs
+**2. Cisco Packet Tracer Guide**
+ To run network simulations:
+1. **Launch** Cisco Packet Tracer.
+2. **Open** the desired `.pkt` file (e.g., `CN_LAN.pkt`).
+3. **Simulate** the network behavior using the "Simulation" tab.
+4. **Verify** connectivity using PDU transfer or `ping` command in CLI.
 
-1. **Install Python 3.x** from [python.org](https://www.python.org/).
-2. **Navigate** to the program directory.
-3. **Run the server first**:
-   ```bash
-   python TCP_Server.py
-   ```
-4. **Run the client** in a separate terminal:
-   ```bash
-   python TCP_Client.py
-   ```
+**3. Python Execution Guide**
+To execute socket programming scripts (e.g., `TCP_Server.py`):
+
+```bash
+# Step 1: Start the Server
+python TCP_Server.py
+
+# Step 2: Start the Client (in a new terminal)
+python TCP_Client.py
+```
 
 ---
 
@@ -222,9 +228,9 @@ Complete network setup and simulation combining all learned concepts.
 <div align="center">
 
   <!-- Footer Navigation -->
-  **[⬆ Back to Top](#computer-network-lab)**
+  **[↑ Back to Top](#computer-network-lab)**
 
-  **[📂 Experiment 1](#-experiment-1-network-topologies)** &nbsp;·&nbsp; **[⭐ Experiment 2](#-experiment-2-star-topology)** &nbsp;·&nbsp; **[🔄 Experiment 3](#-experiment-3-ring-topology)** &nbsp;·&nbsp; **[🌳 Experiment 4](#-experiment-4-tree-topology)** &nbsp;·&nbsp; **[📁 Experiment 5](#-experiment-5-ftp-configuration)** &nbsp;·&nbsp; **[🔀 Experiment 6](#-experiment-6-ospf-routing)** &nbsp;·&nbsp; **[💻 Experiment 7](#-experiment-7-socket-programming)** &nbsp;·&nbsp; **[🔍 Experiment 8](#-experiment-8-error-detection)** &nbsp;·&nbsp; **[🔗 Experiment 9](#-experiment-9-hybrid-topology)** &nbsp;·&nbsp; **[🌐 Experiment 10](#-experiment-10-network-simulation)** &nbsp;·&nbsp; **[🚀 How to Use](#-how-to-use)** &nbsp;·&nbsp; **[📖 Learning Path](#-learning-path)**
+  **[How to Use](#how-to-use)** &nbsp;·&nbsp; **[Learning Path](#learning-path)** &nbsp;·&nbsp; **[Experiment 1](#experiment-1-network-topologies)** &nbsp;·&nbsp; **[Experiment 2](#experiment-2-star-topology)** &nbsp;·&nbsp; **[Experiment 3](#experiment-3-ring-topology)** &nbsp;·&nbsp; **[Experiment 4](#experiment-4-tree-topology)** &nbsp;·&nbsp; **[Experiment 5](#experiment-5-ftp-configuration)** &nbsp;·&nbsp; **[Experiment 6](#experiment-6-ospf-routing)** &nbsp;·&nbsp; **[Experiment 7](#experiment-7-socket-programming)** &nbsp;·&nbsp; **[Experiment 8](#experiment-8-error-detection)** &nbsp;·&nbsp; **[Experiment 9](#experiment-9-hybrid-topology)** &nbsp;·&nbsp; **[Experiment 10](#experiment-10-network-simulation)**
 
   <br>
 
@@ -236,7 +242,7 @@ Complete network setup and simulation combining all learned concepts.
 
 <div align="center">
 
-  ### [Computer Network Lab](https://github.com/Amey-Thakur/COMPUTER-NETWORK-AND-COMPUTER-NETWORK-LAB/tree/main/Computer%20Network%20Lab)
+  ### [Computer Network and Computer Network Lab](https://github.com/Amey-Thakur/COMPUTER-NETWORK-AND-COMPUTER-NETWORK-LAB)
 
   **CSL502 · Semester V · Computer Engineering**
 

@@ -18,7 +18,7 @@
 
   ---
 
-  [📖 Overview](#overview) &nbsp;·&nbsp; [📂 Contents](#repository-contents) &nbsp;·&nbsp; [📚 Reference Books](#reference-books) &nbsp;·&nbsp; [📄 Assignments](#assignments) &nbsp;·&nbsp; [🧪 Laboratory](#computer-network-laboratory) &nbsp;·&nbsp; [🧠 Quizzes](#quizzes) &nbsp;·&nbsp; [💻 Online Exam](#online-exam) &nbsp;·&nbsp; [🎓 Semester Exam](#semester-exam) &nbsp;·&nbsp; [📝 Question Papers](#question-papers) &nbsp;·&nbsp; [✅ Submission Report](#submission-completion-report) &nbsp;·&nbsp; [📋 Syllabus](#syllabus) &nbsp;·&nbsp; [📘 Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [📜 License](#license) &nbsp;·&nbsp; [ℹ️ About](#about-this-repository) &nbsp;·&nbsp; [🙏🏻 Acknowledgments](#acknowledgments)
+  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Assignments](#assignments) &nbsp;·&nbsp; [Laboratory](#computer-network-laboratory) &nbsp;·&nbsp; [Quizzes](#quizzes) &nbsp;·&nbsp; [Online Exam](#online-exam) &nbsp;·&nbsp; [Semester Exam](#semester-exam) &nbsp;·&nbsp; [Question Papers](#question-papers) &nbsp;·&nbsp; [Submission Report](#submission-completion-report) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
 </div>
 
@@ -96,14 +96,14 @@ This collection includes **comprehensive reference materials** covering all majo
 
 Academic assignments for comprehensive learning and practice:
 
-| # | Assignment | Description | Date | Marks | Link |
-|:-:|:---|:---|:---:|:---:|:-:|
-| 1 | **Assignment 1** | OSI Model and Network Fundamentals | August 20, 2020 | 09/10 | [📄 View](Assignments/Amey_B-50_CN_Assignment-1.pdf) |
-| 2 | **Assignment 2** | Physical and Data Link Layer | August 28, 2020 | 10/10 | [📄 View](Assignments/Amey_B-50_CN_Assignment-2.pdf) |
-| 3 | **Assignment 3** | Network Layer and Routing | September 04, 2020 | 10/10 | [📄 View](Assignments/Amey_B-50_CN_Assignment-3.pdf) |
-| 4 | **Assignment 4** | Transport Layer Protocols | October 12, 2020 | 09/10 | [📄 View](Assignments/Amey_B-50_CN_Assignment-4.pdf) |
-| 5 | **Assignment 5** | Application Layer Services | October 29, 2020 | 10/10 | [📄 View](Assignments/Amey_B-50_CN_Assignment-5.pdf) |
-| 6 | **Assignment 6** | Network Security and Management | October 30, 2020 | 10/10 | [📄 View](Assignments/Amey_B-50_CN_Assignment-6.pdf) |
+| # | Assignment | Description | Date | Marks |
+|:-:|:---|:---|:---:|:---:|
+| 1 | [Assignment 1](Assignments/Amey_B-50_CN_Assignment-1.pdf) | OSI Model and Network Fundamentals | August 20, 2020 | 09/10 |
+| 2 | [Assignment 2](Assignments/Amey_B-50_CN_Assignment-2.pdf) | Physical and Data Link Layer | August 28, 2020 | 10/10 |
+| 3 | [Assignment 3](Assignments/Amey_B-50_CN_Assignment-3.pdf) | Network Layer and Routing | September 04, 2020 | 10/10 |
+| 4 | [Assignment 4](Assignments/Amey_B-50_CN_Assignment-4.pdf) | Transport Layer Protocols | October 12, 2020 | 09/10 |
+| 5 | [Assignment 5](Assignments/Amey_B-50_CN_Assignment-5.pdf) | Application Layer Services | October 29, 2020 | 10/10 |
+| 6 | [Assignment 6](Assignments/Amey_B-50_CN_Assignment-6.pdf) | Network Security and Management | October 30, 2020 | 10/10 |
 
 **Topics Covered**: OSI Model · TCP/IP Protocol Suite · Error Detection/Correction · Routing Algorithms · TCP/UDP · Socket Programming · Network Security
 
@@ -127,18 +127,18 @@ The laboratory component (CSL502) focuses on hands-on implementation of network 
 > [!TIP]
 > **Source Code**: For complete Python socket programming code and Cisco Packet Tracer files, visit the [**CISCO**](Computer%20Network%20Lab/CISCO/) directory.
 
-| # | Experiment Name | Description | Date | Marks | Resource |
+| # | Experiment Name | Description | Date | Marks | Report |
 |:-:|:---|:---|:---:|:---:|:-:|
-| 1 | **Network Topologies** | LAN Configuration | July 31, 2020 | 14/15 | [📄](Computer%20Network%20Lab/Experiments/Amey_B-50_CN_Experiment-1.pdf) |
-| 2 | **Star Topology** | Star Network Implementation | August 07, 2020 | 15/15 | [📄](Computer%20Network%20Lab/Experiments/Amey_B-50_CN_Experiment-2.pdf) |
-| 3 | **Ring Topology** | Ring Network Configuration | August 14, 2020 | 15/15 | [📄](Computer%20Network%20Lab/Experiments/Amey_B-50_CN_Experiment-3.pdf) |
-| 4 | **Tree Topology** | Hierarchical Network Design | August 21, 2020 | 15/15 | [📄](Computer%20Network%20Lab/Experiments/Amey_B-50_CN_Experiment-4.pdf) |
-| 5 | **FTP Configuration** | File Transfer Protocol Setup | September 11, 2020 | 15/15 | [📄](Computer%20Network%20Lab/Experiments/Amey_B-50_CN_Experiment-5.pdf) |
-| 6 | **OSPF Routing** | Open Shortest Path First Protocol | September 18, 2020 | 15/15 | [📄](Computer%20Network%20Lab/Experiments/Amey_B-50_CN_Experiment-6.pdf) |
-| 7 | **Socket Programming** | TCP Client-Server Communication | October 05, 2020 | 14/15 | [📄](Computer%20Network%20Lab/Experiments/Amey_B-50_CN_Experiment-7.pdf) |
-| 8 | **Error Detection** | CRC Implementation | October 08, 2020 | 14/15 | [📄](Computer%20Network%20Lab/Experiments/Amey_B-50_CN_Experiment-8.pdf) |
-| 9 | **Hybrid Topology** | Combined Network Design | October 16, 2020 | 14/15 | [📄](Computer%20Network%20Lab/Experiments/Amey_B-50_CN_Experiment-9.pdf) |
-| 10 | **Network Simulation** | Complete Network Setup | October 28, 2020 | 14/15 | [📄](Computer%20Network%20Lab/Experiments/Amey_B-50_CN_Experiment-10.pdf) |
+| 1 | Network Topologies | LAN Configuration | July 31, 2020 | 14/15 | [View](Computer%20Network%20Lab/Experiments/Amey_B-50_CN_Experiment-1.pdf) |
+| 2 | Star Topology | Star Network Implementation | August 07, 2020 | 15/15 | [View](Computer%20Network%20Lab/Experiments/Amey_B-50_CN_Experiment-2.pdf) |
+| 3 | Ring Topology | Ring Network Configuration | August 14, 2020 | 15/15 | [View](Computer%20Network%20Lab/Experiments/Amey_B-50_CN_Experiment-3.pdf) |
+| 4 | Tree Topology | Hierarchical Network Design | August 21, 2020 | 15/15 | [View](Computer%20Network%20Lab/Experiments/Amey_B-50_CN_Experiment-4.pdf) |
+| 5 | FTP Configuration | File Transfer Protocol Setup | September 11, 2020 | 15/15 | [View](Computer%20Network%20Lab/Experiments/Amey_B-50_CN_Experiment-5.pdf) |
+| 6 | OSPF Routing | Open Shortest Path First Protocol | September 18, 2020 | 15/15 | [View](Computer%20Network%20Lab/Experiments/Amey_B-50_CN_Experiment-6.pdf) |
+| 7 | Socket Programming | TCP Client-Server Communication | October 05, 2020 | 14/15 | [View](Computer%20Network%20Lab/Experiments/Amey_B-50_CN_Experiment-7.pdf) |
+| 8 | Error Detection | CRC Implementation | October 08, 2020 | 14/15 | [View](Computer%20Network%20Lab/Experiments/Amey_B-50_CN_Experiment-8.pdf) |
+| 9 | Hybrid Topology | Combined Network Design | October 16, 2020 | 14/15 | [View](Computer%20Network%20Lab/Experiments/Amey_B-50_CN_Experiment-9.pdf) |
+| 10 | Network Simulation | Complete Network Setup | October 28, 2020 | 14/15 | [View](Computer%20Network%20Lab/Experiments/Amey_B-50_CN_Experiment-10.pdf) |
 
 ### Program Details
 
@@ -269,14 +269,14 @@ Laboratory practical examination and submission:
 
 CN-specific quizzes conducted during the course:
 
-| Quiz | Topics | Marks |
-|:---:|:---|:---:|
-| Quiz 1 | Network Fundamentals, OSI Model | 06/10 |
-| Quiz 2 | Physical & Data Link Layer | 06/10 |
-| Quiz 3 | Network Layer, Routing | 05/10 |
-| Quiz 4 | Transport Layer, TCP/UDP | 05/10 |
-| Quiz 5 | Application Layer Protocols | 09/10 |
-| Quiz 6 | Network Security | 09/10 |
+| # | Quiz | Topics | Marks |
+|:-:|:---|:---|:---:|
+| 1 | [Quiz 1] | Network Fundamentals, OSI Model | 06/10 |
+| 2 | [Quiz 2] | Physical & Data Link Layer | 06/10 |
+| 3 | [Quiz 3] | Network Layer, Routing | 05/10 |
+| 4 | [Quiz 4] | Transport Layer Protocols | 05/10 |
+| 5 | [Quiz 5] | Application Layer Services | 09/10 |
+| 6 | [Quiz 6] | Network Security | 09/10 |
 
 ---
 
@@ -290,13 +290,13 @@ CN-specific quizzes conducted during the course:
 
 Online assessments conducted during the semester:
 
-| Resource | Date | Marks | Description |
-|:---|:---:|:---:|:---|
-| 📊 [CN UT-2](Online%20Exam/CN%20UT-2.png) | 2020 | — | Unit Test 2 Assessment |
-| 📄 [All Subjects Test 1](Online%20Exam/TE_B_Online_Test(All%20Subject)-1.pdf) | July 18, 2020 | 40/40 | Collective subject test 1 |
-| 📄 [All Subjects Test 2](Online%20Exam/TE_B_Online_Test(All%20Subject)-2.pdf) | July 25, 2020 | 50/50 | Collective subject test 2 |
-| 📄 [All Subjects Test 3](Online%20Exam/TE_B_Online_Test(All%20Subject)-3.pdf) | August 03, 2020 | 50/50 | Collective subject test 3 |
-| 📄 [All Subjects Test 4](Online%20Exam/TE_B_Online_Test(All%20Subject)-4.pdf) | August 08, 2020 | 50/50 | Collective subject test 4 |
+| # | Resource | Date | Marks | Description |
+|:-:|:---|:---:|:---:|:---|
+| 1 | [CN UT-2](Online%20Exam/CN%20UT-2.png) | 2020 | — | Unit Test 2 Assessment |
+| 2 | [All Subjects Test 1](Online%20Exam/TE_B_Online_Test(All%20Subject)-1.pdf) | July 18, 2020 | 40/40 | Collective subject test 1 |
+| 3 | [All Subjects Test 2](Online%20Exam/TE_B_Online_Test(All%20Subject)-2.pdf) | July 25, 2020 | 50/50 | Collective subject test 2 |
+| 4 | [All Subjects Test 3](Online%20Exam/TE_B_Online_Test(All%20Subject)-3.pdf) | August 03, 2020 | 50/50 | Collective subject test 3 |
+| 5 | [All Subjects Test 4](Online%20Exam/TE_B_Online_Test(All%20Subject)-4.pdf) | August 08, 2020 | 50/50 | Collective subject test 4 |
 
 ---
 
@@ -307,10 +307,10 @@ Online assessments conducted during the semester:
 
 Final semester examination submission:
 
-| Resource | Description | Date |
-|:---|:---|:---:|
-| 📝 [Question 2](Semester%20Exam/Q.2_CN.pdf) | CN Semester Exam Answer Sheet | January 12, 2021 |
-| 📝 [Question 3](Semester%20Exam/Q.3_CN.pdf) | CN Semester Exam Answer Sheet | January 12, 2021 |
+| # | Resource | Description | Date |
+|:-:|:---|:---|:---:|
+| 1 | [Question 2](Semester%20Exam/Q.2_CN.pdf) | CN Semester Exam Answer Sheet | January 12, 2021 |
+| 2 | [Question 3](Semester%20Exam/Q.3_CN.pdf) | CN Semester Exam Answer Sheet | January 12, 2021 |
 
 ---
 
@@ -321,11 +321,11 @@ Final semester examination submission:
 
 Previous year university question papers:
 
-| Exam Session | Syllabus | Resource |
-|:---|:---:|:-:|
-| December 2018 | CBCGS | [📄](Question%20Papers/TE-Comps_SEM5_CN-CBCGS_DEC18.pdf) |
-| May 2019 | CBCGS | [📄](Question%20Papers/TE-Comps_SEM5_CN-CBCGS_MAY19.pdf) |
-| December 2019 | CBCGS | [📄](Question%20Papers/TE-Comps_SEM5_CN-CBCGS_DEC19.pdf) |
+| # | Exam Session | Syllabus | Resource |
+|:-:|:---|:---:|:-:|
+| 1 | December 2018 | CBCGS | [View](Question%20Papers/TE-Comps_SEM5_CN-CBCGS_DEC18.pdf) |
+| 2 | May 2019 | CBCGS | [View](Question%20Papers/TE-Comps_SEM5_CN-CBCGS_MAY19.pdf) |
+| 3 | December 2019 | CBCGS | [View](Question%20Papers/TE-Comps_SEM5_CN-CBCGS_DEC19.pdf) |
 
 ---
 
@@ -336,11 +336,11 @@ Previous year university question papers:
 
 Course completion documentation with exit survey:
 
-| Document | Description | Link |
-|:---|:---|:-:|
-| Submission Report | Final coursework submission report | [📄 View](Submission%20Report/Amey_B-50_CN_Submission_Report.pdf) |
-| Exit Survey (Theory) | Course outcome survey for CN Theory | [📄 View](Submission%20Report/Amey_B-50_CN_Theory_Exit_Survey.pdf) |
-| Exit Survey (Lab) | Course outcome survey for CN Lab | [📄 View](Submission%20Report/Amey_B-50_CN_Lab_Exit_Survey.pdf) |
+| # | Document | Description |
+|:-:|:---|:---|
+| 1 | [Submission Report](Submission%20Report/Amey_B-50_CN_Submission_Report.pdf) | Final coursework submission report |
+| 2 | [Exit Survey (Theory)](Submission%20Report/Amey_B-50_CN_Theory_Exit_Survey.pdf) | Course outcome survey for CN Theory |
+| 3 | [Exit Survey (Lab)](Submission%20Report/Amey_B-50_CN_Lab_Exit_Survey.pdf) | Course outcome survey for CN Lab |
 
 ---
 
@@ -415,9 +415,9 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
 <div align="center">
 
   <!-- Footer Navigation -->
-  **[⬆ Back to Top](#computer-network-and-computer-network-lab)**
+  **[↑ Back to Top](#computer-network-and-computer-network-lab)**
 
-  **[📖 Overview](#overview)** &nbsp;·&nbsp; **[📂 Contents](#repository-contents)** &nbsp;·&nbsp; **[📚 Reference Books](#reference-books)** &nbsp;·&nbsp; **[📄 Assignments](#assignments)** &nbsp;·&nbsp; **[🧪 Laboratory](#computer-network-laboratory)** &nbsp;·&nbsp; **[🧠 Quizzes](#quizzes)** &nbsp;·&nbsp; **[💻 Online Exam](#online-exam)** &nbsp;·&nbsp; **[🎓 Semester Exam](#semester-exam)** &nbsp;·&nbsp; **[📝 Question Papers](#question-papers)** &nbsp;·&nbsp; **[✅ Submission Report](#submission-completion-report)** &nbsp;·&nbsp; **[📋 Syllabus](#syllabus)** &nbsp;·&nbsp; **[📘 Usage Guidelines](#usage-guidelines)** &nbsp;·&nbsp; **[📜 License](#license)** &nbsp;·&nbsp; **[ℹ️ About](#about-this-repository)** &nbsp;·&nbsp; **[🙏🏻 Acknowledgments](#acknowledgments)**
+  **[Overview](#overview)** &nbsp;·&nbsp; **[Contents](#repository-contents)** &nbsp;·&nbsp; **[Reference Books](#reference-books)** &nbsp;·&nbsp; **[Assignments](#assignments)** &nbsp;·&nbsp; **[Laboratory](#computer-network-laboratory)** &nbsp;·&nbsp; **[Quizzes](#quizzes)** &nbsp;·&nbsp; **[Online Exam](#online-exam)** &nbsp;·&nbsp; **[Semester Exam](#semester-exam)** &nbsp;·&nbsp; **[Question Papers](#question-papers)** &nbsp;·&nbsp; **[Submission Report](#submission-completion-report)** &nbsp;·&nbsp; **[Syllabus](#syllabus)** &nbsp;·&nbsp; **[Usage Guidelines](#usage-guidelines)** &nbsp;·&nbsp; **[License](#license)** &nbsp;·&nbsp; **[About](#about-this-repository)** &nbsp;·&nbsp; **[Acknowledgments](#acknowledgments)**
 
   <br>
 
@@ -429,10 +429,10 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
 
 <div align="center">
 
-  ### 🎓 [Computer Engineering Repository](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING)
+  ### [Computer Network and Computer Network Lab](https://github.com/Amey-Thakur/COMPUTER-NETWORK-AND-COMPUTER-NETWORK-LAB)
 
-  **Computer Engineering (B.E.) - University of Mumbai**
+  **CSC503 & CSL502 · Semester V · Computer Engineering**
 
-  *Semester-wise curriculum, laboratories, projects, and academic notes.*
+  *University of Mumbai · Curated by [Amey Thakur](https://github.com/Amey-Thakur)*
 
 </div>
