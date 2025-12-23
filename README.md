@@ -430,10 +430,10 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
 
 <div align="center">
 
-  ### [Computer Network and Computer Network Lab](https://github.com/Amey-Thakur/COMPUTER-NETWORK-AND-COMPUTER-NETWORK-LAB)
-
-  **CSC503 & CSL502 · Semester V · Computer Engineering**
-
-  *University of Mumbai · Curated by [Amey Thakur](https://github.com/Amey-Thakur)*
-
+  ### [🎓 Computer Engineering Repository](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING)
+  
+  **Computer Engineering (B.E.) - University of Mumbai**
+  
+  *Semester-wise curriculum, laboratories, projects, and academic notes.*
+  
 </div>
