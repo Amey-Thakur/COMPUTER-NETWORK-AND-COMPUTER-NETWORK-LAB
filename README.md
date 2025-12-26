@@ -117,14 +117,14 @@ Academic assignments for comprehensive learning and practice:
 
 CN-specific quizzes conducted during the course:
 
-| # | Quiz | Topics | Marks |
-|:-:|:---|:---|:---:|
-| 1 | Quiz 1 | Network Fundamentals, OSI Model | 06/10 |
-| 2 | Quiz 2 | Physical & Data Link Layer | 06/10 |
-| 3 | Quiz 3 | Network Layer, Routing | 05/10 |
-| 4 | Quiz 4 | Transport Layer Protocols | 05/10 |
-| 5 | Quiz 5 | Application Layer Services | 09/10 |
-| 6 | Quiz 6 | Network Security | 09/10 |
+| # | Quiz | Topics | Date | Marks |
+|:-:|:---|:---|:---:|:---:|
+| 1 | Quiz 1 | Network Fundamentals, OSI Model | — | 06/10 |
+| 2 | Quiz 2 | Physical & Data Link Layer | — | 06/10 |
+| 3 | Quiz 3 | Network Layer, Routing | — | 05/10 |
+| 4 | Quiz 4 | Transport Layer Protocols | — | 05/10 |
+| 5 | Quiz 5 | Application Layer Services | — | 09/10 |
+| 6 | Quiz 6 | Network Security | — | 09/10 |
 
 ---
 
@@ -416,13 +416,13 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
 <div align="center">
 
   <!-- Footer Navigation -->
-  **[↑ Back to Top](#computer-network-and-computer-network-laboratory)**
+  [↑ Back to Top](#computer-network-and-computer-network-laboratory)
 
-  **[Overview](#overview)** &nbsp;·&nbsp; **[Contents](#repository-contents)** &nbsp;·&nbsp; **[Reference Books](#reference-books)** &nbsp;·&nbsp; **[Assignments](#assignments)** &nbsp;·&nbsp; **[Quizzes](#quizzes)** &nbsp;·&nbsp; **[Laboratory](#computer-network-laboratory)** &nbsp;·&nbsp; **[Online Exam](#online-exam)** &nbsp;·&nbsp; **[Semester Exam](#semester-exam)** &nbsp;·&nbsp; **[Question Papers](#question-papers)** &nbsp;·&nbsp; **[Submission Report](#submission-completion-report)** &nbsp;·&nbsp; **[Syllabus](#syllabus)** &nbsp;·&nbsp; **[Usage Guidelines](#usage-guidelines)** &nbsp;·&nbsp; **[License](#license)** &nbsp;·&nbsp; **[About](#about-this-repository)** &nbsp;·&nbsp; **[Acknowledgments](#acknowledgments)**
+  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Assignments](#assignments) &nbsp;·&nbsp; [Quizzes](#quizzes) &nbsp;·&nbsp; [Laboratory](#computer-network-laboratory) &nbsp;·&nbsp; [Online Exam](#online-exam) &nbsp;·&nbsp; [Semester Exam](#semester-exam) &nbsp;·&nbsp; [Question Papers](#question-papers) &nbsp;·&nbsp; [Submission Report](#submission-completion-report) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
   <br>
 
-  **[Computer Network Laboratory](Computer%20Network%20Lab/)**
+  🔬 **[Computer Network Laboratory](Computer%20Network%20Lab/)**
 
 </div>
 
