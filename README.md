@@ -117,14 +117,14 @@ Academic assignments for comprehensive learning and practice:
 
 CN-specific quizzes conducted during the course:
 
-| # | Quiz | Topics | Date | Marks |
-|:-:|:---|:---|:---:|:---:|
-| 1 | Quiz 1 | Network Fundamentals, OSI Model | — | 06/10 |
-| 2 | Quiz 2 | Physical & Data Link Layer | — | 06/10 |
-| 3 | Quiz 3 | Network Layer, Routing | — | 05/10 |
-| 4 | Quiz 4 | Transport Layer Protocols | — | 05/10 |
-| 5 | Quiz 5 | Application Layer Services | — | 09/10 |
-| 6 | Quiz 6 | Network Security | — | 09/10 |
+| # | Quiz | Topics | Marks |
+|:-:|:---|:---|:---:|
+| 1 | Quiz 1 | Network Fundamentals, OSI Model | 06/10 |
+| 2 | Quiz 2 | Physical & Data Link Layer | 06/10 |
+| 3 | Quiz 3 | Network Layer, Routing | 05/10 |
+| 4 | Quiz 4 | Transport Layer Protocols | 05/10 |
+| 5 | Quiz 5 | Application Layer Services | 09/10 |
+| 6 | Quiz 6 | Network Security | 09/10 |
 
 ---
 
