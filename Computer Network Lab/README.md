@@ -257,7 +257,7 @@ Complete network setup and simulation combining all learned concepts.
 
   <br>
 
-  **[🏠 Back to Main Repository](../)**
+  🏠 **[Back to Main Repository](../)**
 
 </div>
 
