@@ -14,7 +14,7 @@
   [![Institution](https://img.shields.io/badge/Institution-Terna%20Engineering%20College-orange.svg)](https://ternaengg.ac.in/)
   [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
 
-  **A comprehensive academic resource for Computer Network (CN) and CN Laboratory (CN Lab), covering network protocols, OSI model, TCP/IP, routing algorithms, socket programming, and practical implementations.**
+  **A comprehensive academic resource for Computer Network (CN) and Computer Network Laboratory (CN Lab), covering network protocols, OSI model, TCP/IP, routing algorithms, socket programming, and practical implementations.**
 
   ---
 
@@ -29,7 +29,7 @@
      ========================================================================================= -->
 ## Overview
 
-Computer Network (CSC503) and CN Lab (CSL502) are core subjects in the Third Year (Semester V) of the Computer Engineering curriculum at the University of Mumbai. These courses provide foundational knowledge of network architecture, communication protocols, data transmission, and network security.
+Computer Network (CSC503) and Computer Network Laboratory (CSL502) are core subjects in the Third Year (Semester V) of the Computer Engineering curriculum at the University of Mumbai. These courses provide foundational knowledge of network architecture, communication protocols, data transmission, and network security.
 
 ### Course Topics
 
@@ -52,7 +52,7 @@ As a computer engineer, understanding network protocols and communication system
 
 - **Knowledge Preservation**: To maintain organized access to comprehensive study materials beyond the classroom.
 - **Continuous Learning**: To support lifelong learning by enabling easy revisitation of fundamental networking concepts.
-- **Academic Documentation**: To authentically document my learning journey through CN and CN Lab.
+- **Academic Documentation**: To authentically document my learning journey through Computer Network and Computer Network Laboratory.
 - **Community Contribution**: To share these resources with students and learners who may benefit from them.
 
 All materials in this repository were gathered, organized, and documented by me during my undergraduate studies (2018-2022) as part of my coursework and exam preparation.
@@ -341,7 +341,7 @@ Course completion documentation with exit survey:
 |:-:|:---|:---|
 | 1 | [Submission Report](Submission%20Report/Amey_B-50_CN_Submission_Report.pdf) | Final coursework submission report |
 | 2 | [Exit Survey (Theory)](Submission%20Report/Amey_B-50_CN_Theory_Exit_Survey.pdf) | Course outcome survey for CN Theory |
-| 3 | [Exit Survey (Lab)](Submission%20Report/Amey_B-50_CN_Lab_Exit_Survey.pdf) | Course outcome survey for CN Lab |
+| 3 | [Exit Survey (Lab)](Submission%20Report/Amey_B-50_CN_Lab_Exit_Survey.pdf) | Course outcome survey for Computer Network Laboratory |
 
 ---
 
@@ -350,8 +350,8 @@ Course completion documentation with exit survey:
      ========================================================================================= -->
 ## Syllabus
 
-> **[Official CBCGS Syllabus](Syllabus/TE%20BE%20Comp%20Engg%20CBCGS%20Syllabus.pdf)**  
-> Complete Third Year Computer Engineering syllabus document from the University of Mumbai, including detailed course outcomes, assessment criteria, and module specifications for CN and CN Lab.
+> [**Official CBCGS Syllabus**](Syllabus/TE%20BE%20Comp%20Engg%20CBCGS%20Syllabus.pdf)  
+> Complete Third Year Computer Engineering syllabus document from the University of Mumbai, including detailed course outcomes, assessment criteria, and module specifications for Computer Network and Computer Network Laboratory.
 
 > [!IMPORTANT]
 > Always verify the latest syllabus details with the official University of Mumbai website, as curriculum updates may occur after this repository's archival date.
@@ -398,7 +398,7 @@ This repository and all linked academic content are made available under the **C
 **Institution**: [Terna Engineering College](https://ternaengg.ac.in/), Navi Mumbai  
 **University**: [University of Mumbai](https://mu.ac.in/)
 
-This repository represents a comprehensive collection of study materials, reference books, assignments, and personal preparation notes curated during my academic journey. All content has been carefully organized and documented to serve as a valuable resource for students pursuing Computer Network & CN Lab.
+This repository represents a comprehensive collection of study materials, reference books, assignments, and personal preparation notes curated during my academic journey. All content has been carefully organized and documented to serve as a valuable resource for students pursuing Computer Network & Computer Network Laboratory.
 
 **Connect**: [GitHub](https://github.com/Amey-Thakur) · [LinkedIn](https://www.linkedin.com/in/amey-thakur)
 
