@@ -89,6 +89,8 @@ python TCP_Client.py
 
 Implementation of basic LAN configuration using Cisco Packet Tracer to understand network fundamentals.
 
+**Date**: July 16, 2020
+
 | # | Program | Description | Source Code |
 |:-:|:---|:---|:-:|
 | 1 | CN_LAN.pkt | LAN Configuration using switches and routers | [View](CISCO/CN_LAN.pkt) |
@@ -102,6 +104,8 @@ Implementation of basic LAN configuration using Cisco Packet Tracer to understan
 ## Experiment 2: Star Topology
 
 Implementation of Star network topology where all nodes connect to a central hub/switch.
+
+**Date**: July 23, 2020
 
 | # | Program | Description | Source Code |
 |:-:|:---|:---|:-:|
@@ -117,6 +121,8 @@ Implementation of Star network topology where all nodes connect to a central hub
 
 Implementation of Ring network topology where each node connects to exactly two other nodes.
 
+**Date**: July 30, 2020
+
 | # | Program | Description | Source Code |
 |:-:|:---|:---|:-:|
 | 1 | CN_RING.pkt | Ring Network Configuration | [View](CISCO/CN_RING.pkt) |
@@ -130,6 +136,8 @@ Implementation of Ring network topology where each node connects to exactly two 
 ## Experiment 4: Tree Topology
 
 Implementation of hierarchical Tree topology combining characteristics of Star and Bus topologies.
+
+**Date**: August 06, 2020
 
 | # | Program | Description | Source Code |
 |:-:|:---|:---|:-:|
@@ -145,6 +153,8 @@ Implementation of hierarchical Tree topology combining characteristics of Star a
 
 Configuration of File Transfer Protocol (FTP) server and client for file sharing across the network.
 
+**Date**: August 13, 2020
+
 | # | Program | Description | Source Code |
 |:-:|:---|:---|:-:|
 | 1 | CN_FTP.pkt | FTP Server Setup and Configuration | [View](CISCO/CN_FTP.pkt) |
@@ -159,6 +169,8 @@ Configuration of File Transfer Protocol (FTP) server and client for file sharing
 
 Implementation of Open Shortest Path First (OSPF) dynamic routing protocol for efficient packet routing.
 
+**Date**: August 25, 2020
+
 | # | Program | Description | Source Code |
 |:-:|:---|:---|:-:|
 | 1 | CN_OSPF.pkt | OSPF Dynamic Routing Implementation | [View](CISCO/CN_OSPF.pkt) |
@@ -172,6 +184,8 @@ Implementation of Open Shortest Path First (OSPF) dynamic routing protocol for e
 ## Experiment 7: Socket Programming
 
 Implementation of TCP Client-Server communication using Python socket library.
+
+**Date**: September 01, 2020
 
 | # | Program | Description | Source Code |
 |:-:|:---|:---|:-:|
@@ -188,6 +202,8 @@ Implementation of TCP Client-Server communication using Python socket library.
 
 Implementation of Cyclic Redundancy Check (CRC) algorithm for error detection in data transmission.
 
+**Date**: September 08, 2020
+
 | # | Program | Description | Source Code |
 |:-:|:---|:---|:-:|
 | 1 | CRC_Error_Detection.py | CRC Algorithm Implementation | [View](CISCO/CRC_Error_Detection.py) |
@@ -202,6 +218,8 @@ Implementation of Cyclic Redundancy Check (CRC) algorithm for error detection in
 
 Implementation of Hybrid topology combining Bus and Star topologies for practical network design.
 
+**Date**: December 12, 2020
+
 | # | Program | Description | Source Code |
 |:-:|:---|:---|:-:|
 | 1 | AMEY_B-50_CN_EXAM_HYBRID_TOPOLOGY.pkt | Hybrid Topology (Bus + Star) | [View](CISCO/AMEY_B-50_CN_EXAM_HYBRID_TOPOLOGY.pkt) |
@@ -215,6 +233,8 @@ Implementation of Hybrid topology combining Bus and Star topologies for practica
 ## Experiment 10: Network Simulation
 
 Complete network setup and simulation combining all learned concepts.
+
+**Date**: September 24, 2020
 
 | # | Program | Description | Source Code |
 |:-:|:---|:---|:-:|
