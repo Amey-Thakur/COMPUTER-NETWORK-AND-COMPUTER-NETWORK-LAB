@@ -273,11 +273,11 @@ The laboratory component (CSL502) focuses on hands-on implementation of network 
 
 Laboratory practical examination and submission:
 
-| # | Resource | Description | Date | Link |
-|:-:|:---|:---|:---:|:-:|
-| 1 | **Practical Exam Report** | Implementing a LAN network with Hybrid Topology (Bus + Star) | December 12, 2020 | [View](Practical%20Exam/Amey_B-50_CN_Practical_Exam.pdf) |
-| 2 | **Packet Tracer File** | Hybrid Topology Network Design | December 12, 2020 | [View](Practical%20Exam/AMEY_B-50_CN_EXAM_HYBRID_TOPOLOGY.pkt) |
-| 3 | **Exam Submission** | Official Practical Exam Submission (10:30am-12:30pm) | December 12, 2020 | [View](Practical%20Exam/TE_B_CN_Pr-Exam_10.30am-12.30pm_12_12_2020.pdf) |
+| # | Resource | Description | Date |
+|:-:|:---|:---|:---:|
+| 1 | [Practical Exam Report](Practical%20Exam/Amey_B-50_CN_Practical_Exam.pdf) | Implementing a LAN network with Hybrid Topology (Bus + Star) | December 12, 2020 |
+| 2 | [Packet Tracer File](Practical%20Exam/AMEY_B-50_CN_EXAM_HYBRID_TOPOLOGY.pkt) | Hybrid Topology Network Design | December 12, 2020 |
+| 3 | [Exam Submission](Practical%20Exam/TE_B_CN_Pr-Exam_10.30am-12.30pm_12_12_2020.pdf) | Official Practical Exam Submission (10:30am-12:30pm) | December 12, 2020 |
 
 ---
 
