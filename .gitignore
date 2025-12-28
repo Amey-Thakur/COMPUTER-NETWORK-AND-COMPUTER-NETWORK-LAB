@@ -1,0 +1,43 @@
+# ALL REPOSITORIES
+# ----------------
+# General
+.DS_Store
+Thumbs.db
+*.swp
+*.log
+*.tmp
+*.bak
+*~
+
+# Windows
+desktop.ini
+$RECYCLE.BIN/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# JetBrains
+.idea/
+*.iml
+
+# Cisco Packet Tracer
+*.bak
+*.pka
+# We keep .pkt files as they are the project files
+
+# Network Capture
+*.pcap
+*.pcapng
+*.cap
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# Git
+*.orig
