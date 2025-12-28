@@ -320,7 +320,7 @@ Final semester examination submission:
      ========================================================================================= -->
 ## Question Papers
 
-University of Mumbai examination papers from **2018-2019**
+University of Mumbai examination papers from **2018-2019:**
 
 | # | Exam Session | Syllabus | Resource |
 |:-:|:---|:---:|:-:|
