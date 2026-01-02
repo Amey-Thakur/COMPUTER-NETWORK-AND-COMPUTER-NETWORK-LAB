@@ -1,37 +1,33 @@
-# ALL REPOSITORIES
-# ----------------
-# General
+# Computer Network - Academic Repository
+# Specialized .gitignore for networking and scholarly archiving
+
+# OS-generated files
+[Tt]humbs.db
+[Dd]esktop.ini
 .DS_Store
-Thumbs.db
-*.swp
-*.log
-*.tmp
-*.bak
-*~
+.AppleDouble
+.LSOverride
 
-# Windows
-desktop.ini
-$RECYCLE.BIN/
-
-# VS Code
+# Editor and IDE configuration
 .vscode/
-*.code-workspace
-
-# JetBrains
 .idea/
+*.swp
+*.swo
+*~
 *.iml
+*.code-workspace
 
 # Cisco Packet Tracer
 *.bak
 *.pka
-# We keep .pkt files as they are the project files
+# Note: .pkt files are generally source/project files and kept
 
-# Network Capture
+# Network Capture & Analysis
 *.pcap
 *.pcapng
 *.cap
 
-# Python
+# Python Build Artifacts
 __pycache__/
 *.py[cod]
 *$py.class
@@ -39,5 +35,14 @@ venv/
 env/
 .env
 
-# Git
+# Temporary and Cache files
+*.tmp
+*.log
+.cache/
+node_modules/
+
+# Academic build/output artifacts
+*.bak
+*.sav
+*.old
 *.orig
