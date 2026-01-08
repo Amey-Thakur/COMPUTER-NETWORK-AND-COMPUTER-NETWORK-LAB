@@ -261,7 +261,7 @@ The laboratory component (CSL502) focuses on hands-on implementation of network 
 | 3 | [Cisco Packet Tracer Files](Computer%20Network%20Lab/CISCO/) | Network topology simulation files |
 | 4 | [Lab README](Computer%20Network%20Lab/README.md) | Detailed navigation guide with program descriptions |
 
-> [!NOTE]
+> [!IMPORTANT]
 > **COVID-19 Impact**: This coursework was completed during the COVID-19 pandemic (Semester V, 2020). All laboratory experiments were conducted remotely using Cisco Packet Tracer simulations and Python socket programming. Despite the challenges of online learning, all 10 experiments were successfully completed with practical implementations preserved in this repository.
 
 ---
@@ -400,11 +400,11 @@ This repository and all linked academic content are made available under the **C
 
 This repository represents a comprehensive collection of study materials, reference books, assignments, and personal preparation notes curated during my academic journey. All content has been carefully organized and documented to serve as a valuable resource for students pursuing Computer Network & Computer Network Laboratory.
 
-**Connect**: [GitHub](https://github.com/Amey-Thakur) · [LinkedIn](https://www.linkedin.com/in/amey-thakur)
+**Connect**: [GitHub](https://github.com/Amey-Thakur) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/amey-thakur) &nbsp;·&nbsp; [ORCID](https://orcid.org/0000-0001-5644-1575)
 
 ### Acknowledgments
 
-Special thanks to the faculty members of the Department of Computer Engineering at Terna Engineering College for their guidance and instruction in Computer Networks. Their clear teaching and continued support helped develop a strong understanding of network protocols and communication systems.
+Grateful acknowledgment to the faculty members of the Department of Computer Engineering at Terna Engineering College for their guidance and instruction in Computer Networks. Their clear teaching and continued support helped develop a strong understanding of network protocols and communication systems.
 
 Special thanks to the mentors and peers whose encouragement, discussions, and support contributed meaningfully to this learning experience.
 
