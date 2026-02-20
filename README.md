@@ -35,12 +35,12 @@ Computer Network (CSC503) and Computer Network Laboratory (CSL502) are core subj
 
 The curriculum encompasses several key domains in Computer Networks:
 
-- **Network Fundamentals**: OSI Model, TCP/IP Protocol Suite, Network Topologies
-- **Physical Layer**: Transmission Media, Encoding, Multiplexing, Switching Techniques
-- **Data Link Layer**: Error Detection/Correction, Flow Control, MAC Protocols
-- **Network Layer**: IP Addressing, Subnetting, Routing Algorithms (Distance Vector, Link State)
-- **Transport Layer**: TCP, UDP, Congestion Control, Flow Control
-- **Application Layer**: HTTP, FTP, DNS, SMTP, Socket Programming
+- **Network Fundamentals**: OSI Model, TCP/IP Protocol Suite, Network Topologies.
+- **Physical Layer**: Transmission Media, Encoding, Multiplexing, Switching Techniques.
+- **Data Link Layer**: Error Detection/Correction, Flow Control, MAC Protocols.
+- **Network Layer**: IP Addressing, Subnetting, Routing Algorithms (Distance Vector, Link State).
+- **Transport Layer**: TCP, UDP, Congestion Control, Flow Control.
+- **Application Layer**: HTTP, FTP, DNS, SMTP, Socket Programming.
 
 ### Repository Purpose
 
