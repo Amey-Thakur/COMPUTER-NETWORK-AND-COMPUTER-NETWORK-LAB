@@ -72,6 +72,7 @@ This collection includes **comprehensive reference materials** covering all majo
 | # | Resource | Focus Area |
 |:-:|:---|:---|
 | 1 | [CN Techmax](Reference%20Books/CN%20Techmax.pdf) | Complete syllabus coverage |
+| 1a | [Introduction to Networking](Reference%20Books/1%20Introduction%20to%20Networking%20(06)-word-97.pptx) | Introductory lecture deck |
 | 2 | [Computer Networks by Andrew S. Tanenbaum](Reference%20Books/Computer%20Networks%20by%20Andrew%20S.%20Tanenbaum%205th%20edition.pdf) | Standard Textbook (Tanenbaum) |
 | 3 | [Data Communications and Networking](Reference%20Books/Data%20Communications%20and%20Networking%20By%20Behrouz%20A.Forouzan.pdf) | Standard Textbook (Forouzan) |
 | 4 | [Data Communication Computer Network](Reference%20Books/Data%20Communication%20Computer%20Network.pdf) | Reference Book |
@@ -352,6 +353,7 @@ Course completion documentation with exit survey:
 ## Syllabus
 
 > [**Official CBCGS Syllabus**](Syllabus/TE%20BE%20Comp%20Engg%20CBCGS%20Syllabus.pdf)  
+> [**Third and Fourth Year Syllabus**](Syllabus/MU%20COMP%20TE%20BE.pdf)  
 > Complete Third Year Computer Engineering syllabus document from the University of Mumbai, including detailed course outcomes, assessment criteria, and module specifications for Computer Network and Computer Network Laboratory.
 
 > [!IMPORTANT]
