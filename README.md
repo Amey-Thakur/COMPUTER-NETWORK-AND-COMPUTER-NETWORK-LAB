@@ -9,10 +9,10 @@
 
   ### CSC503 & CSL502 · Semester V · Computer Engineering
 
-  [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
-  [![University](https://img.shields.io/badge/University-Mumbai-%23A6192E.svg)](https://mu.ac.in/)
-  [![Institution](https://img.shields.io/badge/Institution-Terna%20Engineering%20College-orange.svg)](https://ternaengg.ac.in/)
-  [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
+  [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-6E7681.svg)](LICENSE)
+  [![University](https://img.shields.io/badge/University-Mumbai-A6192E.svg)](https://mu.ac.in/)
+  [![Institution](https://img.shields.io/badge/Institution-Terna%20Engineering%20College-E8710A.svg)](https://ternaengg.ac.in/)
+  [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-0969DA.svg)](https://github.com/Amey-Thakur)
 
   **A comprehensive academic resource for Computer Network (CN) and Computer Network Laboratory (CN Lab), covering network protocols, OSI model, TCP/IP, routing algorithms, socket programming, and practical implementations.**
 
@@ -139,9 +139,9 @@ The laboratory component (CSL502) focuses on hands-on implementation of network 
 
 <div align="center">
 
-  [![Total Experiments](https://img.shields.io/badge/Total%20Experiments-10-yellowgreen.svg)](Computer%20Network%20Lab/CISCO/)
-  [![Language](https://img.shields.io/badge/Language-Python%20%7C%20Cisco-blueviolet.svg)](Computer%20Network%20Lab/CISCO/)
-  [![Status](https://img.shields.io/badge/Status-Complete-brightgreen.svg)](Computer%20Network%20Lab/CISCO/)
+  [![Total Experiments](https://img.shields.io/badge/Total%20Experiments-10-795548.svg)](Computer%20Network%20Lab/CISCO/)
+  [![Language](https://img.shields.io/badge/Language-Python%20%7C%20Cisco-8250DF.svg)](Computer%20Network%20Lab/CISCO/)
+  [![Status](https://img.shields.io/badge/Status-Complete-2EA043.svg)](Computer%20Network%20Lab/CISCO/)
 
 </div>
 
