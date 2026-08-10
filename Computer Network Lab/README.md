@@ -8,7 +8,7 @@
   ### CSL502 · Semester V · Computer Engineering
 
   [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-0969DA.svg)](https://github.com/Amey-Thakur)
-  [![Programs](https://img.shields.io/badge/Programs-10-795548.svg)](#laboratory-experiments)
+  [![Programs](https://img.shields.io/badge/Programs-10-3949AB.svg)](#laboratory-experiments)
   [![Language](https://img.shields.io/badge/Language-Python%20%7C%20Cisco-8250DF.svg)](./CISCO/)
 
   **A collection of network topology simulations and socket programming implementations covering LAN, Star, Ring, Tree, Hybrid topologies, OSPF routing, FTP configuration, and TCP/UDP communication.**
