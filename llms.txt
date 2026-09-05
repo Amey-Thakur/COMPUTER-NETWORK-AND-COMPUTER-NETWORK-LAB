@@ -1,0 +1,39 @@
+# Computer Network and Computer Network Laboratory
+
+> CSC503: Computer Network [CN] & CSL502: Computer Network Lab [CN Lab] | TE
+> Semester V | Computer Engineering
+
+Author: Amey Thakur, ORCID 0000-0001-5644-1575
+Co-author: Mega Satish, ORCID 0000-0002-1844-9557
+Institution: Terna Engineering College, University of Mumbai
+Programme: B.E. Computer Engineering, Third Year, Semester V
+Course codes: CSC503, CSL502
+Licence: CC BY 4.0, attribution required
+Repository created: 28 July 2021
+Work dated: 19 January 2021
+
+## What is in this repository
+
+- Assignments, 6 files
+- Computer Network Lab, 21 files
+- Online Exam, 5 files
+- Practical Exam, 3 files
+- Question Papers, 3 files
+- Reference Books, 20 files
+- Semester Exam, 2 files
+- Submission Report, 3 files
+- Syllabus, 2 files
+
+## Subject terms
+
+cisco-packet-tracer, computer-engineering, computer-network,
+computer-networks, computer-networks-lab, computer-science, engineering,
+network-simulation, networking, reference-books, routing-algorithms,
+socket-programming, tcp-ip, textbooks, university-of-mumbai
+
+## Where this sits
+
+- This repository: https://github.com/Amey-Thakur/COMPUTER-NETWORK-AND-COMPUTER-NETWORK-LAB
+- Degree index, every subject and project: https://github.com/Amey-Thakur/COMPUTER-ENGINEERING
+- Author: https://github.com/Amey-Thakur
+- Research notes and reflections: https://amey-thakur.github.io/

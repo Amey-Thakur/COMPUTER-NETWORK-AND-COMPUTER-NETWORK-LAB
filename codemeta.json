@@ -1,0 +1,81 @@
+{
+    "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+    "@type": "SoftwareSourceCode",
+    "additionalType": "https://schema.org/LearningResource",
+    "name": "COMPUTER-NETWORK-AND-COMPUTER-NETWORK-LAB",
+    "description": "CSC503: Computer Network [CN] & CSL502: Computer Network Lab [CN Lab] | TE Semester V | Computer Engineering",
+    "identifier": "COMPUTER-NETWORK-AND-COMPUTER-NETWORK-LAB",
+    "license": "https://spdx.org/licenses/CC-BY-4.0.html",
+    "author": [
+        {
+            "@type": "Person",
+            "givenName": "Amey",
+            "familyName": "Thakur",
+            "id": "https://orcid.org/0000-0001-5644-1575",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Terna Engineering College"
+            }
+        },
+        {
+            "@type": "Person",
+            "givenName": "Mega",
+            "familyName": "Satish",
+            "id": "https://orcid.org/0000-0002-1844-9557",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Terna Engineering College"
+            }
+        }
+    ],
+    "dateCreated": "2021-07-28",
+    "dateReleased": "2021-01-19",
+    "codeRepository": "https://github.com/Amey-Thakur/COMPUTER-NETWORK-AND-COMPUTER-NETWORK-LAB",
+    "isPartOf": "https://github.com/Amey-Thakur/COMPUTER-ENGINEERING",
+    "developmentStatus": "complete",
+    "applicationCategory": "Academic Course Archive",
+    "educationalLevel": "Undergraduate, Third Year, Semester V",
+    "keywords": [
+        "Cisco Packet Tracer",
+        "Computer Engineering",
+        "Computer Network",
+        "Computer Networks",
+        "Computer Networks Lab",
+        "Computer Science",
+        "Engineering",
+        "Network Simulation",
+        "Networking",
+        "Reference Books",
+        "Routing Algorithms",
+        "Socket Programming",
+        "TCP IP",
+        "Textbooks",
+        "University Of Mumbai",
+        "CSC503",
+        "CSL502",
+        "CN",
+        "CN Lab",
+        "Computer Network Lab",
+        "University of Mumbai",
+        "Mumbai University",
+        "Terna Engineering College",
+        "Navi Mumbai",
+        "India",
+        "B.E. Computer Engineering",
+        "TE Semester V",
+        "Semester V",
+        "Assignments",
+        "Laboratory Experiments",
+        "Question Papers",
+        "Syllabus",
+        "CBCGS",
+        "TE Comps",
+        "Amey Thakur",
+        "amey",
+        "ameythakur",
+        "amey-thakur",
+        "ameyarc",
+        "Mega Satish",
+        "megasatish"
+    ]
+}
